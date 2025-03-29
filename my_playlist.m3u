@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="663a15d7cb3ea10008edac88" tvg-logo="https://images.pluto.tv/channels/663a15d7cb3ea10008edac88/thumbnail.jpg" group-title="plutoaustria",Farmland TV
 #EXTVLCOPT:http-referrer=https://pluto.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 5.5) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0 Chrome/94.0.4606.31 TV Safari/537.36
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663a15d7cb3ea10008edac88/master.m3u8?advertisingId=&appName=web&appVersion=9.10.0-765cc6a247fbb118355b701a9f4ac381bd2bd3f2&app_name=web&clientDeviceType=0&clientID=425a1057-6255-4426-95c9-9a5795d47bf8&clientModelNumber=1.0.0&country=AT&deviceDNT=false&deviceId=425a1057-6255-4426-95c9-9a5795d47bf8&deviceLat=48.2100&deviceLon=16.3700&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=DE&sessionID=30be3bee-0c0f-11f0-a196-2e4264ece789&sid=30be3bee-0c0f-11f0-a196-2e4264ece789
