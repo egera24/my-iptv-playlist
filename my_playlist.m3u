@@ -1,12 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="62fa8176b9884200074ef5ae" tvg-logo="https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/thumbnail.jpg" group-title="United States",The Walking Dead Universe
-#EXTVLCOPT:http-referrer=https://pluto.tv/
+#EXTVLCOPT:http-referrer=http-referrer=https://pluto.tv/us/live-tv/62fa8176b9884200074ef5ae
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa8176b9884200074ef5ae/master.m3u8?advertisingId=&appName=web&appVersion=9.10.0-765cc6a247fbb118355b701a9f4ac381bd2bd3f2&app_name=web&clientDeviceType=0&clientID=299c4df1-2ba0-4c11-99b4-761ef2adb293&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=299c4df1-2ba0-4c11-99b4-761ef2adb293&deviceLat=28.5200&deviceLon=-81.2300&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=ea78ea67-0c09-11f0-8bc8-86016c06257f&sid=ea78ea67-0c09-11f0-8bc8-86016c06257f
 
 #EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us" tvg-logo="https://i.imgur.com/IwJ5Pnc.png" group-title="United States",The Walking Dead Universe
 https://amc-twdfanexperience-1-us.xumo.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5e82bb378601b80007b4bd78" tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/thumbnail.jpg" group-title="United States",The Walking Dead en español
-#EXTVLCOPT:http-referrer=https://pluto.tv/
+#EXTVLCOPT:http-referrer=https://pluto.tv/us/live-tv/5e82bb378601b80007b4bd78
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=9.10.0-765cc6a247fbb118355b701a9f4ac381bd2bd3f2&app_name=web&clientDeviceType=0&clientID=299c4df1-2ba0-4c11-99b4-761ef2adb293&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=299c4df1-2ba0-4c11-99b4-761ef2adb293&deviceLat=28.5200&deviceLon=-81.2300&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=46cf7b96-0c0a-11f0-a3ad-ba7ed1d28cc2&sid=46cf7b96-0c0a-11f0-a3ad-ba7ed1d28cc2
+
