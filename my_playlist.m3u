@@ -687,6 +687,18 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-id="NDRFernsehenInternational.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="Germany",NDR Fernsehen International (720p)
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 
+#EXTINF:-1 tvg-id="NDRFernsehenHamburg.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="Germany",NDR Hamburg (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+
+#EXTINF:-1 tvg-id="NDRFernsehenMecklenburgVorpommern.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="Germany",NDR Mecklenburg-Vorpommern (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+
+#EXTINF:-1 tvg-id="NDRFernsehenNiedersachsen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="Germany",NDR Niedersachsen (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+
+#EXTINF:-1 tvg-id="NDRFernsehenSchleswigHolstein.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="Germany",NDR Schleswig-Holstein (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+
 #EXTINF:-1 tvg-id="66a20bcd46762a000823ee2e" tvg-logo="https://images.pluto.tv/channels/66a20bcd46762a000823ee2e/thumbnail.jpg" group-title="Germany",Ned's Declassified School Survival Guide
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
@@ -2694,8 +2706,17 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTINF:-1 tvg-id="AEEast.us" tvg-logo="" group-title="United States",A&E East
 https://v1.thetvapp.to/hls/AEEast/index.m3u8
 
-#EXTINF:-1 tvg-id="KIIOLD4.us" tvg-logo="https://i.imgur.com/Spu4s89.png" group-title="United States",AABC TV (480p)
-https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
+#EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed HD" group-title="United States",A&E US Eastern Feed HD
+https://tvpass.org/live/AEEast/hd
+
+#EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed SD" group-title="United States",A&E US Eastern Feed SD
+https://tvpass.org/live/AEEast/sd
+
+#EXTINF:-1 tvg-id="abc-kabc-los-angeles-ca" tvg-name="ABC (KABC) Los Angeles HD" group-title="United States",ABC (KABC) Los Angeles HD
+https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
+
+#EXTINF:-1 tvg-id="abc-kabc-los-angeles-ca" tvg-name="ABC (KABC) Los Angeles SD" group-title="United States",ABC (KABC) Los Angeles SD
+https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
 
 #EXTINF:-1 tvg-id="KTNVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/KTNV_2023.svg/512px-KTNV_2023.svg.png" group-title="United States",ABC 13 Las Vegas NV (KTNV) (720p)
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
@@ -2799,6 +2820,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c25ec6da6d6600074233a8/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=8056085f-1549-11f0-a25f-327300662534&sid=8056085f-1549-11f0-a25f-327300662534
 
+#EXTINF:-1 tvg-id="acc-network" tvg-name="ACC Network HD" group-title="United States",ACC Network HD
+https://tvpass.org/live/ACCNetwork/hd
+
+#EXTINF:-1 tvg-id="acc-network" tvg-name="ACC Network SD" group-title="United States",ACC Network SD
+https://tvpass.org/live/ACCNetwork/sd
+
 #EXTINF:-1 tvg-id="ACCDigitalNetwork.us" tvg-logo="https://i.imgur.com/V6Kaqha.png" group-title="United States",ACCDN (1080p)
 https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 
@@ -2867,9 +2894,6 @@ https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
 #EXTINF:-1 tvg-id="AKCTVPuppies.us" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="United States",AKC TV Puppies 24/7
 https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
 
-#EXTINF:-1 tvg-id="AlHayatTV.us" tvg-logo="https://i.imgur.com/M8ZuzeB.png" group-title="United States",Al Hayat TV (720p)
-http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AlHorreyaTV.us" tvg-logo="https://i.imgur.com/EK75DMJ.png" group-title="United States",Al Horreya TV (1080p)
 http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
 
@@ -2936,6 +2960,12 @@ https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlmagdTVNorthAmerica.us" tvg-logo="https://i.imgur.com/3pUik3b.png" group-title="United States",Almagd TV North America (1080p)
 https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="altitude-sports-denver" tvg-name="Altitude Sports Denver HD" group-title="United States",Altitude Sports Denver HD
+https://tvpass.org/live/altitude-sports-denver/hd
+
+#EXTINF:-1 tvg-id="altitude-sports-denver" tvg-name="Altitude Sports Denver SD" group-title="United States",Altitude Sports Denver SD
+https://tvpass.org/live/altitude-sports-denver/sd
+
 #EXTINF:-1 tvg-id="AlwaysFunnyVideos.us" tvg-logo="https://i.imgur.com/vfdN5Xl.png" group-title="United States",Always Funny Videos
 https://linear-12.frequency.stream/dist/glewedtv/12/hls/master/playlist.m3u8
 
@@ -2955,6 +2985,12 @@ https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="" group-title="United States",AMC East (1080p)
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC Eastern Feed HD" group-title="United States",AMC Eastern Feed HD
+https://tvpass.org/live/AMCEast/hd
+
+#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC Eastern Feed SD" group-title="United States",AMC Eastern Feed SD
+https://tvpass.org/live/AMCEast/sd
+
 #EXTINF:-1 tvg-id="5e84f54a82f05300080e6746" tvg-logo="https://images.pluto.tv/channels/5e84f54a82f05300080e6746/thumbnail.jpg" group-title="United States",America's Test Kitchen
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
@@ -2973,6 +3009,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65492fc7056b9700088560b5/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=c7ef34c3-1548-11f0-b176-bac884b91a7e&sid=c7ef34c3-1548-11f0-b176-bac884b91a7e
 
+#EXTINF:-1 tvg-id="american-heroes-channel" tvg-name="American Heroes Channel HD" group-title="United States",American Heroes Channel HD
+https://tvpass.org/live/AmericanHeroesChannel/hd
+
+#EXTINF:-1 tvg-id="american-heroes-channel" tvg-name="American Heroes Channel SD" group-title="United States",American Heroes Channel SD
+https://tvpass.org/live/AmericanHeroesChannel/sd
+
 #EXTINF:-1 tvg-id="AmericanHorrors.us" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png" group-title="United States",American Horrors (480p)
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 
@@ -2989,6 +3031,12 @@ https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f75178e7f8aa0007e9c259/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=b6ae6ec3-1548-11f0-9bdb-8e669ec06024&sid=b6ae6ec3-1548-11f0-9bdb-8e669ec06024
+
+#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East HD" group-title="United States",Animal Planet US East HD
+https://tvpass.org/live/AnimalPlanetEast/hd
+
+#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East SD" group-title="United States",Animal Planet US East SD
+https://tvpass.org/live/AnimalPlanetEast/sd
 
 #EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/thumbnail.jpg" group-title="United States",Anime All Day
 #EXTVLCOPT:http-referrer=https://pluto.tv/
@@ -3073,6 +3121,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="" group-title="United States",BBC America East
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 
+#EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East HD" group-title="United States",BBC America East HD
+https://tvpass.org/live/BBCAmericaEast/hd
+
+#EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East SD" group-title="United States",BBC America East SD
+https://tvpass.org/live/BBCAmericaEast/sd
+
 #EXTINF:-1 tvg-id="656535fc2c46f30008870fae" tvg-logo="https://images.pluto.tv/channels/656535fc2c46f30008870fae/thumbnail.jpg" group-title="United States",BBC Earth
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
@@ -3092,6 +3146,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=f2cbc4ce-1547-11f0-84ca-ce1b1189d74c&sid=f2cbc4ce-1547-11f0-84ca-ce1b1189d74c
+
+#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD HD" group-title="United States",BBC News North America HD HD
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/hd
+
+#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD SD" group-title="United States",BBC News North America HD SD
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
 
 #EXTINF:-1 tvg-id="BeachTVFloridaAlabama.us" tvg-logo="https://i.imgur.com/weypM9C.png" group-title="United States",Beach TV Florida & Alabama (720p)
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
@@ -3131,11 +3191,23 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f760bbdf090700075d7bfe/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=9d949173-1548-11f0-acf4-468ec283b490&sid=9d949173-1548-11f0-acf4-468ec283b490
 
+#EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET Eastern Feed HD" group-title="United States",BET Eastern Feed HD
+https://tvpass.org/live/BETEast/hd
+
+#EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET Eastern Feed SD" group-title="United States",BET Eastern Feed SD
+https://tvpass.org/live/BETEast/sd
+
 #EXTINF:-1 tvg-id="BETGospel.us" tvg-logo="https://i.imgur.com/jbOkq8C.png" group-title="United States",BET Gospel
 http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
 
 #EXTINF:-1 tvg-id="BETHerEast.us" tvg-logo="" group-title="United States",BET Her East
 http://fl2.moveonjoy.com/BET_HER/index.m3u8
+
+#EXTINF:-1 tvg-id="bet-her" tvg-name="BET Her HD" group-title="United States",BET Her HD
+https://tvpass.org/live/BETHerEast/hd
+
+#EXTINF:-1 tvg-id="bet-her" tvg-name="BET Her SD" group-title="United States",BET Her SD
+https://tvpass.org/live/BETHerEast/sd
 
 #EXTINF:-1 tvg-id="BETJams.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/BET_Jams_2021.png/512px-BET_Jams_2021.png" group-title="United States",BET Jams
 http://fl3.moveonjoy.com/BET_Jams/index.m3u8
@@ -3185,6 +3257,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 
 #EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/512px-Big_Ten_Network_Logo.svg.png" group-title="United States",Big Ten Network
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="big-ten-network" tvg-name="Big Ten Network HD" group-title="United States",Big Ten Network HD
+https://tvpass.org/live/BTN/hd
+
+#EXTINF:-1 tvg-id="big-ten-network" tvg-name="Big Ten Network SD" group-title="United States",Big Ten Network SD
+https://tvpass.org/live/BTN/sd
 
 #EXTINF:-1 tvg-id="BilliardTV.us" tvg-logo="https://i.imgur.com/BZijfKh.png" group-title="United States",Billiard TV (1080p)
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
@@ -3236,6 +3314,12 @@ https://bloomberg.com/media-manifest/streams/us-event.m3u8
 #EXTINF:-1 tvg-id="BloombergTVPoliticsLiveEvent.us" tvg-logo="" group-title="United States",Bloomberg TV US Politics Live Event (720p)
 https://bloomberg.com/media-manifest/streams/politics.m3u8
 
+#EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg TV USA HD" group-title="United States",Bloomberg TV USA HD
+https://tvpass.org/live/BloombergTV/hd
+
+#EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg TV USA SD" group-title="United States",Bloomberg TV USA SD
+https://tvpass.org/live/BloombergTV/sd
+
 #EXTINF:-1 tvg-id="61b3b8c645b45d0007a9bb8d" tvg-logo="https://images.pluto.tv/channels/61b3b8c645b45d0007a9bb8d/thumbnail.jpg" group-title="United States",Blue Bloods
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
@@ -3272,6 +3356,12 @@ https://s3-us-west-2.amazonaws.com/bolton.castus-vod/live/ch1/video.m3u8
 #EXTINF:-1 tvg-id="bonappetit.us" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="United States",bon appétit (1080p)
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang HD" group-title="United States",Boomerang HD
+https://tvpass.org/live/Boomerang/hd
+
+#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang SD" group-title="United States",Boomerang SD
+https://tvpass.org/live/Boomerang/sd
+
 #EXTINF:-1 tvg-id="Boston25Now.us" tvg-logo="https://i.imgur.com/YlsspLR.png" group-title="United States",Boston 25
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b62b3982d0d000755a2be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f6390858-5ff7-40b8-83c2-2d2baded2800
 
@@ -3282,6 +3372,12 @@ http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6176fd25e83a5f0007a464c9/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=80ab5534-1547-11f0-ab1f-a20d462fd1e7&sid=80ab5534-1547-11f0-ab1f-a20d462fd1e7
+
+#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed HD" group-title="United States",Bravo USA Eastern Feed HD
+https://tvpass.org/live/BravoEast/hd
+
+#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed SD" group-title="United States",Bravo USA Eastern Feed SD
+https://tvpass.org/live/BravoEast/sd
 
 #EXTINF:-1 tvg-id="6549310a53fc97000838fcc9" tvg-logo="https://images.pluto.tv/channels/6549310a53fc97000838fcc9/thumbnail.jpg" group-title="United States",Bravo Vault
 #EXTVLCOPT:http-referrer=https://pluto.tv/
@@ -3346,6 +3442,18 @@ https://windnew.newkso.ru/wind/premium750/mono.m3u8
 #EXTINF:-1 tvg-id="CSPAN2.us" tvg-logo="https://i.imgur.com/9B6XIQC.png" group-title="United States",C-SPAN 2
 https://v1.thetvapp.to/hls/CSPAN2/index.m3u8
 
+#EXTINF:-1 tvg-id="cspan-2" tvg-name="C-SPAN 2 HD" group-title="United States",C-SPAN 2 HD
+https://tvpass.org/live/CSPAN2/hd
+
+#EXTINF:-1 tvg-id="cspan-2" tvg-name="C-SPAN 2 SD" group-title="United States",C-SPAN 2 SD
+https://tvpass.org/live/CSPAN2/sd
+
+#EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN HD" group-title="United States",C-SPAN HD
+https://tvpass.org/live/CSPAN/hd
+
+#EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN SD" group-title="United States",C-SPAN SD
+https://tvpass.org/live/CSPAN/sd
+
 #EXTINF:-1 tvg-id="CafeTradeTV.us" tvg-logo="https://i.ibb.co/GW4cMfc/cafe-trade-tv.png" group-title="United States",Cafe Trade TV (720p)
 https://cafetradehls.wns.live/hls/stream.m3u8
 
@@ -3367,6 +3475,9 @@ https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="United States",CanelaTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
 
+#EXTINF:-1 tvg-id="CAPSChannel15.us" tvg-logo="https://i.imgur.com/by9Q5Ea.png" group-title="United States",CAPS Media Channel 15 (Ventura CA) (480p)
+https://reflect-stream15-capsmedia.cablecast.tv/live/live.m3u8
+
 #EXTINF:-1 tvg-id="CAPSChannel6.us" tvg-logo="https://i.imgur.com/by9Q5Ea.png" group-title="United States",CAPS Media Channel 6 (Ventura CA) (480p)
 https://reflect-stream6-capsmedia.cablecast.tv/live/live.m3u8
 
@@ -3377,6 +3488,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 
 #EXTINF:-1 tvg-id="CityTVCarlsbad.us" tvg-logo="https://i.imgur.com/G6h8efT.png" group-title="United States",Carlsbad City TV Channel (Carlsbad CA) (720p)
 https://edge-f.swagit.com/live/carlsbadca/live-3-a-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed HD" group-title="United States",Cartoon Network USA Eastern Feed HD
+https://tvpass.org/live/CartoonNetworkEast/hd
+
+#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed SD" group-title="United States",Cartoon Network USA Eastern Feed SD
+https://tvpass.org/live/CartoonNetworkEast/sd
 
 #EXTINF:-1 tvg-id="60d393e5579a420007ee553c" tvg-logo="https://images.pluto.tv/channels/60d393e5579a420007ee553c/thumbnail.jpg" group-title="United States",Casos de la Dra. Polo
 #EXTVLCOPT:http-referrer=https://pluto.tv/
@@ -3402,6 +3519,12 @@ https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/7345
 
 #EXTINF:-1 tvg-id="CBNNews.us" tvg-logo="https://i.imgur.com/gG2SWgG.png" group-title="United States",CBN News National (1080p)
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cbs-kcbs-los-angeles-ca" tvg-name="CBS (KCBS) Los Angeles HD" group-title="United States",CBS (KCBS) Los Angeles HD
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
+
+#EXTINF:-1 tvg-id="cbs-kcbs-los-angeles-ca" tvg-name="CBS (KCBS) Los Angeles SD" group-title="United States",CBS (KCBS) Los Angeles SD
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
 
 #EXTINF:-1 tvg-id="KWCHDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="United States",CBS 12 KWCH Weather Channel / Always On Storm Team 12
 https://d2jni005khp8n7.cloudfront.net/out/gray-kwchwx-rtmp-v3/live.m3u8
@@ -3549,6 +3672,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="United States",CBS Sports Network USA
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="cbs-sports-network-usa" tvg-name="CBS Sports Network USA HD" group-title="United States",CBS Sports Network USA HD
+https://tvpass.org/live/CBSSportsNetworkUSA/hd
+
+#EXTINF:-1 tvg-id="cbs-sports-network-usa" tvg-name="CBS Sports Network USA SD" group-title="United States",CBS Sports Network USA SD
+https://tvpass.org/live/CBSSportsNetworkUSA/sd
+
 #EXTINF:-1 tvg-id="CCX1.us" tvg-logo="https://i.imgur.com/1hHW3IK.png" group-title="United States",CCX Media North Brooklyn Park MN (1080p)
 https://reflect-ccx.cablecast.tv/live-9/live/live.m3u8
 
@@ -3591,6 +3720,12 @@ https://bozztv.com/gusa/gusa-chefchampion/index.m3u8
 
 #EXTINF:-1 tvg-id="ChefRocShow.us" tvg-logo="https://i.imgur.com/vhVnAzE.png" group-title="United States",Chef Roc Show (720p) [Not 24/7]
 https://bozztv.com/gusa/gusa-chefrock/index.m3u8
+
+#EXTINF:-1 tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network HD" group-title="United States",Chicago Sports Network HD
+https://tvpass.org/live/chicago-sports-network/hd
+
+#EXTINF:-1 tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network SD" group-title="United States",Chicago Sports Network SD
+https://tvpass.org/live/chicago-sports-network/sd
 
 #EXTINF:-1 tvg-id="Choppertown.us" tvg-logo="https://i.imgur.com/U6cu5Ms.png" group-title="United States",Choppertown (720p)
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
@@ -3639,6 +3774,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 
 #EXTINF:-1 tvg-id="CineLife.us" tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="United States",CineLife
 https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed HD" group-title="United States",Cinemax Eastern Feed HD
+https://tvpass.org/live/CinemaxEast/hd
+
+#EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed SD" group-title="United States",Cinemax Eastern Feed SD
+https://tvpass.org/live/CinemaxEast/sd
 
 #EXTINF:-1 tvg-id="KTOP.us" tvg-logo="https://i.imgur.com/duM548G.png" group-title="United States",City of Oakland (KTOP) (480p)
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8
@@ -3702,8 +3843,20 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=8da19059-1547-11f0-853c-32bf20c9cf2c&sid=8da19059-1547-11f0-853c-32bf20c9cf2c
 
+#EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed HD" group-title="United States",CMT US Eastern Feed HD
+https://tvpass.org/live/CMTEast/hd
+
+#EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed SD" group-title="United States",CMT US Eastern Feed SD
+https://tvpass.org/live/CMTEast/sd
+
 #EXTINF:-1 tvg-id="CNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" group-title="United States",CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
+
+#EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC USA HD" group-title="United States",CNBC USA HD
+https://tvpass.org/live/CNBC/hd
+
+#EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC USA SD" group-title="United States",CNBC USA SD
+https://tvpass.org/live/CNBC/sd
 
 #EXTINF:-1 tvg-id="5421f71da6af422839419cb3" tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/thumbnail.jpg" group-title="United States",CNN HEADLINES
 #EXTVLCOPT:http-referrer=https://pluto.tv/
@@ -3714,6 +3867,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66e0b4536ad04d0008fff4b2/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=3009c866-1549-11f0-9198-ea8a53b23dac&sid=3009c866-1549-11f0-9198-ea8a53b23dac
+
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US HD" group-title="United States",CNN US HD
+https://tvpass.org/live/CNN/hd
+
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US SD" group-title="United States",CNN US SD
+https://tvpass.org/live/CNN/sd
 
 #EXTINF:-1 tvg-id="673248f9030a2c0008033af8" tvg-logo="https://images.pluto.tv/channels/673248f9030a2c0008033af8/thumbnail.jpg" group-title="United States",CNN XPRESS
 #EXTVLCOPT:http-referrer=https://pluto.tv/
@@ -3733,6 +3892,12 @@ https://watch.collierschools.com/EducationChannel/educhannel.stream/playlist.m3u
 
 #EXTINF:-1 tvg-id="CollierTV.us" tvg-logo="https://i.imgur.com/dkpTHI9.png" group-title="United States",Collier Television CTV (Naples FL) (720p)
 https://reflect-collier-countyboc.cablecast.tv/live-4/live/live.m3u8
+
+#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central (US) Eastern Feed HD" group-title="United States",Comedy Central (US) Eastern Feed HD
+https://tvpass.org/live/ComedyCentralEast/hd
+
+#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central (US) Eastern Feed SD" group-title="United States",Comedy Central (US) Eastern Feed SD
+https://tvpass.org/live/ComedyCentralEast/sd
 
 #EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-logo="" group-title="United States",Comedy Central East (720p)
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
@@ -3766,6 +3931,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/673249433a61d400087a51ed/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=de323871-1548-11f0-936f-7253773b4ebb&sid=de323871-1548-11f0-936f-7253773b4ebb
 
+#EXTINF:-1 tvg-id="the-cooking-channel" tvg-name="The Cooking Channel HD" group-title="United States",The Cooking Channel HD
+https://tvpass.org/live/CookingChannel/hd
+
+#EXTINF:-1 tvg-id="the-cooking-channel" tvg-name="The Cooking Channel SD" group-title="United States",The Cooking Channel SD
+https://tvpass.org/live/CookingChannel/sd
+
 #EXTINF:-1 tvg-id="CookingPanda.us" tvg-logo="https://i.imgur.com/bhY0Zcs.png" group-title="United States",Cooking Panda (576p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
 
@@ -3796,6 +3967,12 @@ http://184.185.54.232/live-10/live/live.m3u8
 
 #EXTINF:-1 tvg-id="CoziTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/512px-Cozi_TV_logo.svg.png" group-title="United States",Cozi TV
 http://fl3.moveonjoy.com/COZI_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="crime-investigation-network-usa-hd" tvg-name="Crime & Investigation Network USA HD HD" group-title="United States",Crime & Investigation Network USA HD HD
+https://tvpass.org/live/CrimePlusInvestigation/hd
+
+#EXTINF:-1 tvg-id="crime-investigation-network-usa-hd" tvg-name="Crime & Investigation Network USA HD SD" group-title="United States",Crime & Investigation Network USA HD SD
+https://tvpass.org/live/CrimePlusInvestigation/sd
 
 #EXTINF:-1 tvg-id="CrimePlusInvestigation.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/512px-C%26I_logo.svg.png" group-title="United States",Crime + Investigation
 https://v1.thetvapp.to/hls/CrimePlusInvestigation/index.m3u8
@@ -3861,6 +4038,18 @@ https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/playlist.m3u8
 #EXTINF:-1 tvg-id="CuriosityStream.us" tvg-logo="https://i.imgur.com/KUb4vEz.png" group-title="United States",CuriosityStream (720p)
 http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
 
+#EXTINF:-1 tvg-id="cw-kfmbtv2-san-diego-ca" tvg-name="CW (KFMB-TV2) San Diego HD" group-title="United States",CW (KFMB-TV2) San Diego HD
+https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
+
+#EXTINF:-1 tvg-id="cw-kfmbtv2-san-diego-ca" tvg-name="CW (KFMB-TV2) San Diego SD" group-title="United States",CW (KFMB-TV2) San Diego SD
+https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
+
+#EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia" tvg-name="CW (WDCW) District of Columbia HD" group-title="United States",CW (WDCW) District of Columbia HD
+https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
+
+#EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia" tvg-name="CW (WDCW) District of Columbia SD" group-title="United States",CW (WDCW) District of Columbia SD
+https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
+
 #EXTINF:-1 tvg-id="DarkMatterTV.us" tvg-logo="https://i.imgur.com/9K8T3ND.png" group-title="United States",Dark Matter TV (720p)
 https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
 
@@ -3912,19 +4101,61 @@ https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/play
 #EXTINF:-1 tvg-id="DerryTV23.us" tvg-logo="https://i.imgur.com/MRR6UL3.png" group-title="United States",DerryTV 23
 https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="destination-america" tvg-name="Destination America HD" group-title="United States",Destination America HD
+https://tvpass.org/live/DestinationAmerica/hd
+
+#EXTINF:-1 tvg-id="destination-america" tvg-name="Destination America SD" group-title="United States",Destination America SD
+https://tvpass.org/live/DestinationAmerica/sd
+
 #EXTINF:-1 tvg-id="673bf05ddaad7f0008ac7a5c" tvg-logo="https://images.pluto.tv/channels/673bf05ddaad7f0008ac7a5c/thumbnail.jpg" group-title="United States",Dinos 24/7
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/673bf05ddaad7f0008ac7a5c/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=55dae122-1548-11f0-b022-ce4aa30ecd6f&sid=55dae122-1548-11f0-b022-ce4aa30ecd6f
 
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed HD" group-title="United States",Discovery Channel (US) Eastern Feed HD
+https://tvpass.org/live/DiscoveryChannelEast/hd
+
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed SD" group-title="United States",Discovery Channel (US) Eastern Feed SD
+https://tvpass.org/live/DiscoveryChannelEast/sd
+
+#EXTINF:-1 tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel HD" group-title="United States",Discovery Family Channel HD
+https://tvpass.org/live/DiscoveryFamily/hd
+
+#EXTINF:-1 tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel SD" group-title="United States",Discovery Family Channel SD
+https://tvpass.org/live/DiscoveryFamily/sd
+
+#EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel HD" group-title="United States",Discovery Life Channel HD
+https://tvpass.org/live/DiscoveryLife/hd
+
+#EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel SD" group-title="United States",Discovery Life Channel SD
+https://tvpass.org/live/DiscoveryLife/sd
+
 #EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="" group-title="United States",Disney Channel East
 https://v1.thetvapp.to/hls/DisneyChannelEast/index.m3u8
+
+#EXTINF:-1 tvg-id="disney-eastern-feed" tvg-name="Disney Eastern Feed HD" group-title="United States",Disney Eastern Feed HD
+https://tvpass.org/live/DisneyChannelEast/hd
+
+#EXTINF:-1 tvg-id="disney-eastern-feed" tvg-name="Disney Eastern Feed SD" group-title="United States",Disney Eastern Feed SD
+https://tvpass.org/live/DisneyChannelEast/sd
 
 #EXTINF:-1 tvg-id="DisneyJuniorEast.us" tvg-logo="" group-title="United States",Disney Junior East
 http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 
+#EXTINF:-1 tvg-id="disney-junior-usa-east" tvg-name="Disney Junior USA East HD" group-title="United States",Disney Junior USA East HD
+https://tvpass.org/live/DisneyJuniorEast/hd
+
+#EXTINF:-1 tvg-id="disney-junior-usa-east" tvg-name="Disney Junior USA East SD" group-title="United States",Disney Junior USA East SD
+https://tvpass.org/live/DisneyJuniorEast/sd
+
 #EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo="" group-title="United States",Disney XD East
 https://v1.thetvapp.to/hls/DisneyXDEast/index.m3u8
+
+#EXTINF:-1 tvg-id="disney-xd-usa-eastern-feed" tvg-name="Disney XD USA Eastern Feed HD" group-title="United States",Disney XD USA Eastern Feed HD
+https://tvpass.org/live/DisneyXDEast/hd
+
+#EXTINF:-1 tvg-id="disney-xd-usa-eastern-feed" tvg-name="Disney XD USA Eastern Feed SD" group-title="United States",Disney XD USA Eastern Feed SD
+https://tvpass.org/live/DisneyXDEast/sd
 
 #EXTINF:-1 tvg-id="DisneyXDWest.us" tvg-logo="" group-title="United States",Disney XD West (720p)
 http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
@@ -3966,6 +4197,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-id="EEast.us" tvg-logo="" group-title="United States",E! East
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 
+#EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" tvg-name="E! Entertainment USA Eastern Feed HD" group-title="United States",E! Entertainment USA Eastern Feed HD
+https://tvpass.org/live/EEast/hd
+
+#EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" tvg-name="E! Entertainment USA Eastern Feed SD" group-title="United States",E! Entertainment USA Eastern Feed SD
+https://tvpass.org/live/EEast/sd
+
 #EXTINF:-1 tvg-id="650b69cfd1f20c0008586bac" tvg-logo="https://images.pluto.tv/channels/650b69cfd1f20c0008586bac/thumbnail.jpg" group-title="United States",EarthDay 365
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
@@ -4002,8 +4239,38 @@ https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/amagi7b98-AmagiMixible/master
 #EXTINF:-1 tvg-id="EscambiaCountyTV.us" tvg-logo="https://i.imgur.com/TAvJdpo.png" group-title="United States",Escambia County TV ECTV (Escambia County FL) (720p)
 https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes HD" group-title="United States",ESPN Deportes HD
+https://tvpass.org/live/espn-deportes/hd
+
+#EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes SD" group-title="United States",ESPN Deportes SD
+https://tvpass.org/live/espn-deportes/sd
+
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN HD" group-title="United States",ESPN HD
+https://tvpass.org/live/ESPN/hd
+
+#EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News HD" group-title="United States",ESPN News HD
+https://tvpass.org/live/ESPNews/hd
+
+#EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News SD" group-title="United States",ESPN News SD
+https://tvpass.org/live/ESPNews/sd
+
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN SD" group-title="United States",ESPN SD
+https://tvpass.org/live/ESPN/sd
+
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="United States",ESPN U (720p)
 http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+
+#EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U HD" group-title="United States",ESPN U HD
+https://tvpass.org/live/ESPNU/hd
+
+#EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U SD" group-title="United States",ESPN U SD
+https://tvpass.org/live/ESPNU/sd
+
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2 HD" group-title="United States",ESPN2 HD
+https://tvpass.org/live/ESPN2/hd
+
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2 SD" group-title="United States",ESPN2 SD
+https://tvpass.org/live/ESPN2/sd
 
 #EXTINF:-1 tvg-id="ESPNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png" group-title="United States",ESPNews (720p)
 http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
@@ -4084,6 +4351,120 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77939a630f530007dde654/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=b66f4be1-1547-11f0-9bdb-8e669ec06024&sid=b66f4be1-1547-11f0-9bdb-8e669ec06024
 
+#EXTINF:-1 tvg-id="fanduel-sports-indiana" tvg-name="Fanduel Sports Indiana HD" group-title="United States",Fanduel Sports Indiana HD
+https://tvpass.org/live/fanduel-sports-indiana/hd
+
+#EXTINF:-1 tvg-id="fanduel-sports-indiana" tvg-name="Fanduel Sports Indiana SD" group-title="United States",Fanduel Sports Indiana SD
+https://tvpass.org/live/fanduel-sports-indiana/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit HD" group-title="United States",Fanduel Sports Network Detroit HD
+https://tvpass.org/live/fanduel-sports-network-detroit-hd/hd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit SD" group-title="United States",Fanduel Sports Network Detroit SD
+https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-florida" tvg-name="Fanduel Sports Network Florida HD" group-title="United States",Fanduel Sports Network Florida HD
+https://tvpass.org/live/fanduel-sports-network-florida/hd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-florida" tvg-name="Fanduel Sports Network Florida SD" group-title="United States",Fanduel Sports Network Florida SD
+https://tvpass.org/live/fanduel-sports-network-florida/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-great-lakes" tvg-name="Fanduel Sports Network Great Lakes HD" group-title="United States",Fanduel Sports Network Great Lakes HD
+https://tvpass.org/live/fanduel-sports-network-great-lakes/hd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-great-lakes" tvg-name="Fanduel Sports Network Great Lakes SD" group-title="United States",Fanduel Sports Network Great Lakes SD
+https://tvpass.org/live/fanduel-sports-network-great-lakes/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-north" tvg-name="Fanduel Sports Network North HD" group-title="United States",Fanduel Sports Network North HD
+https://tvpass.org/live/fanduel-sports-network-north/hd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-north" tvg-name="Fanduel Sports Network North SD" group-title="United States",Fanduel Sports Network North SD
+https://tvpass.org/live/fanduel-sports-network-north/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-ohio-cleveland" tvg-name="Fanduel Sports Network Ohio Cleveland HD" group-title="United States",Fanduel Sports Network Ohio Cleveland HD
+https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/hd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-ohio-cleveland" tvg-name="Fanduel Sports Network Ohio Cleveland SD" group-title="United States",Fanduel Sports Network Ohio Cleveland SD
+https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-oklahoma" tvg-name="Fanduel Sports Network Oklahoma HD" group-title="United States",Fanduel Sports Network Oklahoma HD
+https://tvpass.org/live/fanduel-sports-network-oklahoma/hd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-oklahoma" tvg-name="Fanduel Sports Network Oklahoma SD" group-title="United States",Fanduel Sports Network Oklahoma SD
+https://tvpass.org/live/fanduel-sports-network-oklahoma/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-san-diego" tvg-name="Fanduel Sports Network San Diego HD" group-title="United States",Fanduel Sports Network San Diego HD
+https://tvpass.org/live/fanduel-sports-network-san-diego/hd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-san-diego" tvg-name="Fanduel Sports Network San Diego SD" group-title="United States",Fanduel Sports Network San Diego SD
+https://tvpass.org/live/fanduel-sports-network-san-diego/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-socal" tvg-name="Fanduel Sports Network Socal HD" group-title="United States",Fanduel Sports Network Socal HD
+https://tvpass.org/live/fanduel-sports-network-socal/hd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-socal" tvg-name="Fanduel Sports Network Socal SD" group-title="United States",Fanduel Sports Network Socal SD
+https://tvpass.org/live/fanduel-sports-network-socal/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-south-carolinas" tvg-name="Fanduel Sports Network South Carolinas HD" group-title="United States",Fanduel Sports Network South Carolinas HD
+https://tvpass.org/live/fanduel-sports-network-south-carolinas/hd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-south-carolinas" tvg-name="Fanduel Sports Network South Carolinas SD" group-title="United States",Fanduel Sports Network South Carolinas SD
+https://tvpass.org/live/fanduel-sports-network-south-carolinas/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-south-tennessee-usa" tvg-name="Fanduel Sports Network South Tennessee HD" group-title="United States",Fanduel Sports Network South Tennessee HD
+https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/hd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-south-tennessee-usa" tvg-name="Fanduel Sports Network South Tennessee SD" group-title="United States",Fanduel Sports Network South Tennessee SD
+https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-west" tvg-name="Fanduel Sports Network West HD" group-title="United States",Fanduel Sports Network West HD
+https://tvpass.org/live/fanduel-sports-network-west/hd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-west" tvg-name="Fanduel Sports Network West SD" group-title="United States",Fanduel Sports Network West SD
+https://tvpass.org/live/fanduel-sports-network-west/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-wisconsin" tvg-name="Fanduel Sports Network Wisconsin HD" group-title="United States",Fanduel Sports Network Wisconsin HD
+https://tvpass.org/live/fanduel-sports-network-wisconsin/hd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-wisconsin" tvg-name="Fanduel Sports Network Wisconsin SD" group-title="United States",Fanduel Sports Network Wisconsin SD
+https://tvpass.org/live/fanduel-sports-network-wisconsin/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-georgia" tvg-name="Fanduel Sports Southeast Georgia HD" group-title="United States",Fanduel Sports Southeast Georgia HD
+https://tvpass.org/live/fanduel-sports-southeast-georgia/hd
+
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-georgia" tvg-name="Fanduel Sports Southeast Georgia SD" group-title="United States",Fanduel Sports Southeast Georgia SD
+https://tvpass.org/live/fanduel-sports-southeast-georgia/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-north-carolina" tvg-name="Fanduel Sports Southeast North Carolina HD" group-title="United States",Fanduel Sports Southeast North Carolina HD
+https://tvpass.org/live/fanduel-sports-southeast-north-carolina/hd
+
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-north-carolina" tvg-name="Fanduel Sports Southeast North Carolina SD" group-title="United States",Fanduel Sports Southeast North Carolina SD
+https://tvpass.org/live/fanduel-sports-southeast-north-carolina/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-south-carolina" tvg-name="Fanduel Sports Southeast South Carolina HD" group-title="United States",Fanduel Sports Southeast South Carolina HD
+https://tvpass.org/live/fanduel-sports-southeast-south-carolina/hd
+
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-south-carolina" tvg-name="Fanduel Sports Southeast South Carolina SD" group-title="United States",Fanduel Sports Southeast South Carolina SD
+https://tvpass.org/live/fanduel-sports-southeast-south-carolina/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-tennessee-nashville" tvg-name="Fanduel Sports Southeast Tennessee Nashville HD" group-title="United States",Fanduel Sports Southeast Tennessee Nashville HD
+https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/hd
+
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-tennessee-nashville" tvg-name="Fanduel Sports Southeast Tennessee Nashville SD" group-title="United States",Fanduel Sports Southeast Tennessee Nashville SD
+https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/sd
+
+#EXTINF:-1 tvg-id="bally-sports-sun" tvg-name="Fanduel Sports Sun HD" group-title="United States",Fanduel Sports Sun HD
+https://tvpass.org/live/fanduel-sports-sun/hd
+
+#EXTINF:-1 tvg-id="bally-sports-sun" tvg-name="Fanduel Sports Sun SD" group-title="United States",Fanduel Sports Sun SD
+https://tvpass.org/live/fanduel-sports-sun/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-tennessee-east" tvg-name="Fanduel Sports Tennessee East HD" group-title="United States",Fanduel Sports Tennessee East HD
+https://tvpass.org/live/fanduel-sports-tennessee-east/hd
+
+#EXTINF:-1 tvg-id="fanduel-sports-tennessee-east" tvg-name="Fanduel Sports Tennessee East SD" group-title="United States",Fanduel Sports Tennessee East SD
+https://tvpass.org/live/fanduel-sports-tennessee-east/sd
+
 #EXTINF:-1 tvg-id="650b68bc2ce8e40008ac9c14" tvg-logo="https://images.pluto.tv/channels/650b68bc2ce8e40008ac9c14/thumbnail.jpg" group-title="United States",FanDuel TV Extra
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
@@ -4135,6 +4516,12 @@ https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_1tqj
 #EXTVLCOPT:http-referrer=https://fnx.org/
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
 
+#EXTINF:-1 tvg-id="food-network-usa-eastern-feed" tvg-name="Food Network USA Eastern Feed HD" group-title="United States",Food Network USA Eastern Feed HD
+https://tvpass.org/live/FoodNetworkEast/hd
+
+#EXTINF:-1 tvg-id="food-network-usa-eastern-feed" tvg-name="Food Network USA Eastern Feed SD" group-title="United States",Food Network USA Eastern Feed SD
+https://tvpass.org/live/FoodNetworkEast/sd
+
 #EXTINF:-1 tvg-id="5d8d0fbaa8742fa3093899da" tvg-logo="https://images.pluto.tv/channels/5d8d0fbaa8742fa3093899da/thumbnail.jpg" group-title="United States",Foodies
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
@@ -4156,6 +4543,12 @@ https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/fortlauderdale/G1118_002/playlist.m3u8
 #EXTINF:-1 tvg-id="CityofFortPierce.us" tvg-logo="https://i.imgur.com/2ChoSsi.png" group-title="United States",Fort Pierce Live Stream (Fort Pierce FL) (720p)
 https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8
 
+#EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca" tvg-name="FOX (KTTV) Los Angeles HD" group-title="United States",FOX (KTTV) Los Angeles HD
+https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
+
+#EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca" tvg-name="FOX (KTTV) Los Angeles SD" group-title="United States",FOX (KTTV) Los Angeles SD
+https://tvpass.org/live/fox-kttv-los-angeles-ca/sd
+
 #EXTINF:-1 tvg-id="KXVADT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="United States",Fox 15 West Texas Abilene TX (KXVA)
 https://livevideo01.myfoxzone.com/hls/live/2017381/elvs/live.m3u8
 
@@ -4174,6 +4567,12 @@ https://livevideo01.fox61.com/hls/live/2011658/elvs/live.m3u8
 #EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="United States",FOX Business (1080p)
 http://41.205.93.154/FOXBUSINESS/index.m3u8
 
+#EXTINF:-1 tvg-id="fox-business" tvg-name="Fox Business HD" group-title="United States",Fox Business HD
+https://tvpass.org/live/FoxBusiness/hd
+
+#EXTINF:-1 tvg-id="fox-business" tvg-name="Fox Business SD" group-title="United States",Fox Business SD
+https://tvpass.org/live/FoxBusiness/sd
+
 #EXTINF:-1 tvg-id="63d0269d60bc8f000890facc" tvg-logo="https://images.pluto.tv/channels/63d0269d60bc8f000890facc/thumbnail.jpg" group-title="United States",FOX Deportes
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
@@ -4184,11 +4583,17 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 
+#EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News HD" group-title="United States",Fox News HD
+https://tvpass.org/live/FoxNewsChannel/hd
+
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="United States",FOX News Now (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FoxNewsRadio.us" tvg-logo="https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png" group-title="United States",Fox News Radio (720p)
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
+
+#EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News SD" group-title="United States",Fox News SD
+https://tvpass.org/live/FoxNewsChannel/sd
 
 #EXTINF:-1 tvg-id="FoxSoul.us" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="United States",Fox Soul
 http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
@@ -4206,8 +4611,20 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="" group-title="United States",Fox Sports 1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 HD" group-title="United States",Fox Sports 1 HD
+https://tvpass.org/live/FoxSports1/hd
+
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 SD" group-title="United States",Fox Sports 1 SD
+https://tvpass.org/live/FoxSports1/sd
+
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="" group-title="United States",Fox Sports 2
 https://v1.thetvapp.to/hls/FoxSports2/index.m3u8
+
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 HD" group-title="United States",Fox Sports 2 HD
+https://tvpass.org/live/FoxSports2/hd
+
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 SD" group-title="United States",Fox Sports 2 SD
+https://tvpass.org/live/FoxSports2/sd
 
 #EXTINF:-1 tvg-id="640a68880e884c0009979cc2" tvg-logo="https://images.pluto.tv/channels/640a68880e884c0009979cc2/thumbnail.jpg" group-title="United States",FOX Weather
 #EXTVLCOPT:http-referrer=https://pluto.tv/
@@ -4222,6 +4639,12 @@ http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 
 #EXTINF:-1 tvg-id="FreeSpeechTV.us" tvg-logo="https://i.imgur.com/Qq6heRq.png" group-title="United States",Free Speech TV (720p)
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
+
+#EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="Freeform East Feed HD" group-title="United States",Freeform East Feed HD
+https://tvpass.org/live/FreeformEast/hd
+
+#EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="Freeform East Feed SD" group-title="United States",Freeform East Feed SD
+https://tvpass.org/live/FreeformEast/sd
 
 #EXTINF:-1 tvg-id="CMAC1.us" tvg-logo="https://i.imgur.com/PYhdQy9.png" group-title="United States",Fresno CMAC 1 Public Channel (720p)
 https://reflect-vod-cmac.cablecast.tv/live-11/live/live.m3u8
@@ -4241,11 +4664,29 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58
 #EXTINF:-1 tvg-id="FuseEast.us" tvg-logo="" group-title="United States",Fuse East (720p)
 http://fl2.moveonjoy.com/FUSE/index.m3u8
 
+#EXTINF:-1 tvg-id="fuse-tv-eastern-feed" tvg-name="FUSE TV Eastern feed HD" group-title="United States",FUSE TV Eastern feed HD
+https://tvpass.org/live/FuseEast/hd
+
+#EXTINF:-1 tvg-id="fuse-tv-eastern-feed" tvg-name="FUSE TV Eastern feed SD" group-title="United States",FUSE TV Eastern feed SD
+https://tvpass.org/live/FuseEast/sd
+
 #EXTINF:-1 tvg-id="FXEast.us" tvg-logo="" group-title="United States",FX East
 http://fl2.moveonjoy.com/FX/index.m3u8
 
 #EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="United States",FX Movie Channel
 https://v1.thetvapp.to/hls/FXMovieChannel/index.m3u8
+
+#EXTINF:-1 tvg-id="fx-movie-channel" tvg-name="FX Movie Channel HD" group-title="United States",FX Movie Channel HD
+https://tvpass.org/live/FXMovieChannel/hd
+
+#EXTINF:-1 tvg-id="fx-movie-channel" tvg-name="FX Movie Channel SD" group-title="United States",FX Movie Channel SD
+https://tvpass.org/live/FXMovieChannel/sd
+
+#EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast HD" group-title="United States",FX Networks East Coast HD
+https://tvpass.org/live/FXEast/hd
+
+#EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast SD" group-title="United States",FX Networks East Coast SD
+https://tvpass.org/live/FXEast/sd
 
 #EXTINF:-1 tvg-id="FXMEast.us" tvg-logo="" group-title="United States",FXM East
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
@@ -4253,8 +4694,20 @@ http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 tvg-id="FXXEast.us" tvg-logo="" group-title="United States",FXX East
 http://fl2.moveonjoy.com/FXX/index.m3u8
 
+#EXTINF:-1 tvg-id="fxx-usa-eastern" tvg-name="FXX USA Eastern HD" group-title="United States",FXX USA Eastern HD
+https://tvpass.org/live/FXXEast/hd
+
+#EXTINF:-1 tvg-id="fxx-usa-eastern" tvg-name="FXX USA Eastern SD" group-title="United States",FXX USA Eastern SD
+https://tvpass.org/live/FXXEast/sd
+
 #EXTINF:-1 tvg-id="FYIEast.us" tvg-logo="" group-title="United States",FYI East
 http://fl2.moveonjoy.com/FYI/index.m3u8
+
+#EXTINF:-1 tvg-id="fyi-usa-eastern" tvg-name="FYI USA Eastern HD" group-title="United States",FYI USA Eastern HD
+https://tvpass.org/live/FYIEast/hd
+
+#EXTINF:-1 tvg-id="fyi-usa-eastern" tvg-name="FYI USA Eastern SD" group-title="United States",FYI USA Eastern SD
+https://tvpass.org/live/FYIEast/sd
 
 #EXTINF:-1 tvg-id="Community12TV.us" tvg-logo="https://i.imgur.com/Oel3q43.png" group-title="United States",Gainesville Community 12TV (Gainesville FL) (720p)
 https://lin10.isilive.ca/live/gainesville/live/index.m3u8
@@ -4269,6 +4722,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 
 #EXTINF:-1 tvg-id="GameShowNetworkEast.us" tvg-logo="" group-title="United States",Game Show Network East (720p) [Not 24/7]
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="game-show-network-east" tvg-name="Game Show Network East HD" group-title="United States",Game Show Network East HD
+https://tvpass.org/live/game-show-network-east/hd
+
+#EXTINF:-1 tvg-id="game-show-network-east" tvg-name="Game Show Network East SD" group-title="United States",Game Show Network East SD
+https://tvpass.org/live/game-show-network-east/sd
 
 #EXTINF:-1 tvg-id="GanjeHozourTV.us" tvg-logo="https://i.imgur.com/TnQYtKh.png" group-title="United States",Ganj e Hozour TV (720p)
 https://media.parvizshahbazi.com/ganjehozour/Main_tv/playlist.m3u8
@@ -4340,6 +4799,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-id="GCOtv.us" tvg-logo="https://i.imgur.com/zHBR2zR.png" group-title="United States",Golden Community Television (GCO.tv) (Golden CO) (1080p)
 https://reflect-golden-co.cablecast.tv/live-3/live/live.m3u8
 
+#EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA HD" group-title="United States",Golf Channel USA HD
+https://tvpass.org/live/GolfChannel/hd
+
+#EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA SD" group-title="United States",Golf Channel USA SD
+https://tvpass.org/live/GolfChannel/sd
+
 #EXTINF:-1 tvg-id="65493029ab052400089e9d2f" tvg-logo="https://images.pluto.tv/channels/65493029ab052400089e9d2f/thumbnail.jpg" group-title="United States",GolfPass
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
@@ -4404,10 +4869,22 @@ http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Hallmark_Drama_Logo.png" group-title="United States",Hallmark Drama (720p)
 http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 
+#EXTINF:-1 tvg-id="hallmark-eastern-feed" tvg-name="Hallmark Eastern Feed HD" group-title="United States",Hallmark Eastern Feed HD
+https://tvpass.org/live/HallmarkChannelEast/hd
+
+#EXTINF:-1 tvg-id="hallmark-eastern-feed" tvg-name="Hallmark Eastern Feed SD" group-title="United States",Hallmark Eastern Feed SD
+https://tvpass.org/live/HallmarkChannelEast/sd
+
 #EXTINF:-1 tvg-id="6532e7b290a74c00084a3bb6" tvg-logo="https://images.pluto.tv/channels/6532e7b290a74c00084a3bb6/thumbnail.jpg" group-title="United States",Hallmark en español
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=1566abe1-1549-11f0-a1ab-028a4cad7e6e&sid=1566abe1-1549-11f0-a1ab-028a4cad7e6e
+
+#EXTINF:-1 tvg-id="hallmark-family-hd" tvg-name="Hallmark Family HD HD" group-title="United States",Hallmark Family HD HD
+https://tvpass.org/live/HallmarkDrama/hd
+
+#EXTINF:-1 tvg-id="hallmark-family-hd" tvg-name="Hallmark Family HD SD" group-title="United States",Hallmark Family HD SD
+https://tvpass.org/live/HallmarkDrama/sd
 
 #EXTINF:-1 tvg-id="628e685ba3811100070551a8" tvg-logo="https://images.pluto.tv/channels/628e685ba3811100070551a8/thumbnail.jpg" group-title="United States",Hallmark Movies & More
 #EXTVLCOPT:http-referrer=https://pluto.tv/
@@ -4417,10 +4894,52 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-id="HallmarkMoviesMysteriesEast.us" tvg-logo="" group-title="United States",Hallmark Movies Mysteries East
 http://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 
+#EXTINF:-1 tvg-id="hallmark-mystery-eastern-hd" tvg-name="Hallmark Mystery Eastern HD HD" group-title="United States",Hallmark Mystery Eastern HD HD
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
+
+#EXTINF:-1 tvg-id="hallmark-mystery-eastern-hd" tvg-name="Hallmark Mystery Eastern HD SD" group-title="United States",Hallmark Mystery Eastern HD SD
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
+
 #EXTINF:-1 tvg-id="5f7794162a4559000781fc12" tvg-logo="https://images.pluto.tv/channels/5f7794162a4559000781fc12/thumbnail.jpg" group-title="United States",Happy Days
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f7794162a4559000781fc12/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=db12d795-1548-11f0-9bdb-8e669ec06024&sid=db12d795-1548-11f0-9bdb-8e669ec06024
+
+#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed HD" group-title="United States",HBO 2 Eastern Feed HD
+https://tvpass.org/live/HBO2East/hd
+
+#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed SD" group-title="United States",HBO 2 Eastern Feed SD
+https://tvpass.org/live/HBO2East/sd
+
+#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East HD" group-title="United States",HBO Comedy HD East HD
+https://tvpass.org/live/HBOComedyEast/hd
+
+#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East SD" group-title="United States",HBO Comedy HD East SD
+https://tvpass.org/live/HBOComedyEast/sd
+
+#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed HD" group-title="United States",HBO Eastern Feed HD
+https://tvpass.org/live/HBOEast/hd
+
+#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed SD" group-title="United States",HBO Eastern Feed SD
+https://tvpass.org/live/HBOEast/sd
+
+#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed HD" group-title="United States",HBO Family Eastern Feed HD
+https://tvpass.org/live/HBOFamilyEast/hd
+
+#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed SD" group-title="United States",HBO Family Eastern Feed SD
+https://tvpass.org/live/HBOFamilyEast/sd
+
+#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern HD" group-title="United States",HBO Signature (HBO 3) Eastern HD
+https://tvpass.org/live/HBOSignatureEast/hd
+
+#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern SD" group-title="United States",HBO Signature (HBO 3) Eastern SD
+https://tvpass.org/live/HBOSignatureEast/sd
+
+#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East HD" group-title="United States",HBO Zone HD East HD
+https://tvpass.org/live/HBOZoneEast/hd
+
+#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East SD" group-title="United States",HBO Zone HD East SD
+https://tvpass.org/live/HBOZoneEast/sd
 
 #EXTINF:-1 tvg-id="HeartlandWebFeed.us" tvg-logo="" group-title="United States",Heartland
 https://d76toswjmqqzm.cloudfront.net/playlist.m3u8
@@ -4435,16 +4954,34 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492b2794116800073e32dc/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=fa8155d3-1548-11f0-8eb7-e6539df05686&sid=fa8155d3-1548-11f0-8eb7-e6539df05686
 
+#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed HD" group-title="United States",HGTV USA Eastern Feed HD
+https://tvpass.org/live/HGTVEast/hd
+
+#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed SD" group-title="United States",HGTV USA Eastern Feed SD
+https://tvpass.org/live/HGTVEast/sd
+
 #EXTINF:-1 tvg-id="HighVisionTV.us" tvg-logo="https://i.imgur.com/zhCgoru.png" group-title="United States",High Vision
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="HillsboroughTV.us" tvg-logo="https://i.imgur.com/fUne7FX.png" group-title="United States",Hillsborough County TV HTV (Hillsborough County FL) (360p)
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8
 
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed HD" group-title="United States",History Channel US Eastern Feed HD
+https://tvpass.org/live/HistoryEast/hd
+
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed SD" group-title="United States",History Channel US Eastern Feed SD
+https://tvpass.org/live/HistoryEast/sd
+
 #EXTINF:-1 tvg-id="66e0b4a3f0f17500085cc268" tvg-logo="https://images.pluto.tv/channels/66e0b4a3f0f17500085cc268/thumbnail.jpg" group-title="United States",Hit Sitcoms
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66e0b4a3f0f17500085cc268/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=4eaca6b5-1549-11f0-9c07-96ee372846e6&sid=4eaca6b5-1549-11f0-9c07-96ee372846e6
+
+#EXTINF:-1 tvg-id="hln" tvg-name="HLN HD" group-title="United States",HLN HD
+https://tvpass.org/live/HLN/hd
+
+#EXTINF:-1 tvg-id="hln" tvg-name="HLN SD" group-title="United States",HLN SD
+https://tvpass.org/live/HLN/sd
 
 #EXTINF:-1 tvg-id="HMIPROMZNEWS.us" tvg-logo="https://i.imgur.com/gwPaw3v.png" group-title="United States",HMI PROMZ NEWS (720p)
 https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
@@ -4538,6 +5075,12 @@ https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="IntheKitchen.us" tvg-logo="https://i.imgur.com/HrRUd6r.png" group-title="United States",In the kitchen
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
 
+#EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US HD" group-title="United States",Independent Film Channel US HD
+https://tvpass.org/live/IFCEast/hd
+
+#EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US SD" group-title="United States",Independent Film Channel US SD
+https://tvpass.org/live/IFCEast/sd
+
 #EXTINF:-1 tvg-id="InfoWars.us" tvg-logo="https://i.imgur.com/a7h9epj.png" group-title="United States",InfoWars Network (1080p)
 https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
 
@@ -4557,10 +5100,22 @@ https://59d39900ebfb8.streamlock.net/8478/8478/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=cabdb56e-1548-11f0-bbad-2ab7bb3725cd&sid=cabdb56e-1548-11f0-bbad-2ab7bb3725cd
 
+#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern HD" group-title="United States",Investigation Discovery USA Eastern HD
+https://tvpass.org/live/InvestigationDiscoveryEast/hd
+
+#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern SD" group-title="United States",Investigation Discovery USA Eastern SD
+https://tvpass.org/live/InvestigationDiscoveryEast/sd
+
 #EXTINF:-1 tvg-id="65453f30085df200085883d8" tvg-logo="https://images.pluto.tv/channels/65453f30085df200085883d8/thumbnail.jpg" group-title="United States",ION
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65453f30085df200085883d8/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=f7cd9e6c-1547-11f0-86c5-6e2b4b69e681&sid=f7cd9e6c-1547-11f0-86c5-6e2b4b69e681
+
+#EXTINF:-1 tvg-id="ion-eastern-feed" tvg-name="ION Eastern Feed HD" group-title="United States",ION Eastern Feed HD
+https://tvpass.org/live/IONTVEast/hd
+
+#EXTINF:-1 tvg-id="ion-eastern-feed" tvg-name="ION Eastern Feed SD" group-title="United States",ION Eastern Feed SD
+https://tvpass.org/live/IONTVEast/sd
 
 #EXTINF:-1 tvg-id="WFXTDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png" group-title="United States",ION Mystery (1080p)
 https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
@@ -4865,9 +5420,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-id="LakeHavasuCity4.us" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lQ_vy6By43AoSdSQbFUzQePU0NWWIM-uzsAqnbbQXAql4=s512" group-title="United States",LHCAZTV
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WYPLTV18.us" tvg-logo="https://i.imgur.com/irwOxj4.png" group-title="United States",The Library Channel TV18 (360p)
-https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8
-
 #EXTINF:-1 tvg-id="KSCEDT1.us" tvg-logo="https://i.imgur.com/FioxUa3.png" group-title="United States",Life! Christian Broadcasting Network (360p)
 https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
 
@@ -4876,6 +5428,18 @@ https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LifetimeMoviesEast.us" tvg-logo="" group-title="United States",Lifetime Movies East
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="lifetime-movies-east" tvg-name="Lifetime Movies East HD" group-title="United States",Lifetime Movies East HD
+https://tvpass.org/live/LifetimeMoviesEast/hd
+
+#EXTINF:-1 tvg-id="lifetime-movies-east" tvg-name="Lifetime Movies East SD" group-title="United States",Lifetime Movies East SD
+https://tvpass.org/live/LifetimeMoviesEast/sd
+
+#EXTINF:-1 tvg-id="lifetime-network-us-eastern-feed" tvg-name="Lifetime Network US Eastern Feed HD" group-title="United States",Lifetime Network US Eastern Feed HD
+https://tvpass.org/live/LifetimeEast/hd
+
+#EXTINF:-1 tvg-id="lifetime-network-us-eastern-feed" tvg-name="Lifetime Network US Eastern Feed SD" group-title="United States",Lifetime Network US Eastern Feed SD
+https://tvpass.org/live/LifetimeEast/sd
 
 #EXTINF:-1 tvg-id="LifevisionTV.us" tvg-logo="https://i.imgur.com/pF6Wowj.jpg" group-title="United States",LifevisionTV (406p) [Not 24/7]
 https://tgn.bozztv.com/lifevision/lifevision/index.m3u8
@@ -4945,6 +5509,12 @@ https://livestream.liveone.com/lc1/p1.m3u8
 
 #EXTINF:-1 tvg-id="LogoEast.us" tvg-logo="" group-title="United States",Logo East
 https://v1.thetvapp.to/hls/LogoEast/index.m3u8
+
+#EXTINF:-1 tvg-id="logo-east" tvg-name="LOGO East HD" group-title="United States",LOGO East HD
+https://tvpass.org/live/LogoEast/hd
+
+#EXTINF:-1 tvg-id="logo-east" tvg-name="LOGO East SD" group-title="United States",LOGO East SD
+https://tvpass.org/live/LogoEast/sd
 
 #EXTINF:-1 tvg-id="5ce5a8954311f992edbe1da2" tvg-logo="https://images.pluto.tv/channels/5ce5a8954311f992edbe1da2/thumbnail.jpg" group-title="United States",Logo Pluto TV
 #EXTVLCOPT:http-referrer=https://pluto.tv/
@@ -5024,6 +5594,12 @@ https://reflect-mcsb-vod.cablecast.tv/live-16/live/live.m3u8
 #EXTINF:-1 tvg-id="MarqueeSportsNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/512px-Marquee_Sports_Network_Logo.svg.png" group-title="United States",Marquee Sports Network
 https://v1.thetvapp.to/hls/marquee-sports-network/index.m3u8
 
+#EXTINF:-1 tvg-id="marquee-sports-network" tvg-name="Marquee Sports Network HD" group-title="United States",Marquee Sports Network HD
+https://tvpass.org/live/marquee-sports-network/hd
+
+#EXTINF:-1 tvg-id="marquee-sports-network" tvg-name="Marquee Sports Network SD" group-title="United States",Marquee Sports Network SD
+https://tvpass.org/live/marquee-sports-network/sd
+
 #EXTINF:-1 tvg-id="67c62ac2095aea2ec805eb34" tvg-logo="https://images.pluto.tv/channels/67c62ac2095aea2ec805eb34/thumbnail.jpg" group-title="United States",The Martha Stewart Channel
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
@@ -5060,11 +5636,29 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-id="WSBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/MegaTV.png" group-title="United States",Mega TV (1080p)
 https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
 
+#EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey HD" group-title="United States",MeTV Toons (WJLP2) New Jersey HD
+https://tvpass.org/live/metv-toons/hd
+
+#EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey SD" group-title="United States",MeTV Toons (WJLP2) New Jersey SD
+https://tvpass.org/live/metv-toons/sd
+
+#EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" tvg-name="MeTV Wjlp New Jerseynew York HD" group-title="United States",MeTV Wjlp New Jerseynew York HD
+https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
+
+#EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" tvg-name="MeTV Wjlp New Jerseynew York SD" group-title="United States",MeTV Wjlp New Jerseynew York SD
+https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
+
 #EXTINF:-1 tvg-id="MGMPlusEast.us" tvg-logo="" group-title="United States",MGM+ East
 http://fl2.moveonjoy.com/EPIX/index.m3u8
 
 #EXTINF:-1 tvg-id="MGMPlusMarquee.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/512px-MGM%2B_Marquee_2023.svg.png" group-title="United States",MGM+ Marquee
 http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+
+#EXTINF:-1 tvg-id="midatlantic-sports-network" tvg-name="Midatlantic Sports Network HD" group-title="United States",Midatlantic Sports Network HD
+https://tvpass.org/live/midatlantic-sports-network/hd
+
+#EXTINF:-1 tvg-id="midatlantic-sports-network" tvg-name="Midatlantic Sports Network SD" group-title="United States",Midatlantic Sports Network SD
+https://tvpass.org/live/midatlantic-sports-network/sd
 
 #EXTINF:-1 tvg-id="MidnightPulp.us" tvg-logo="https://od.lk/s/MF8yMjQwMDkyNjVf/MidnightPulp_200x200.png" group-title="United States",Midnight Pulp
 https://amg01201-cinedigmenterta-midnightpulp-cineverse-axym1.amagi.tv/playlist/amg01201-cinedigmenterta-midnightpulp-cineverse/playlist.m3u8
@@ -5123,6 +5717,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://i.imgur.com/sA5V39D.png" group-title="United States",MLB Network
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="mlb-network" tvg-name="MLB Network HD" group-title="United States",MLB Network HD
+https://tvpass.org/live/MLBNetwork/hd
+
+#EXTINF:-1 tvg-id="mlb-network" tvg-name="MLB Network SD" group-title="United States",MLB Network SD
+https://tvpass.org/live/MLBNetwork/sd
+
 #EXTINF:-1 tvg-id="MCPSSTV.us" tvg-logo="https://i.imgur.com/qo5sk1g.png" group-title="United States",Mobile County Public Schools TV Network (MCPSS)
 https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8
 
@@ -5141,6 +5741,12 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69b683ba51e00084534a3/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=ae5cbc50-1547-11f0-84ca-ce1b1189d74c&sid=ae5cbc50-1547-11f0-84ca-ce1b1189d74c
+
+#EXTINF:-1 tvg-id="monumental-sports-network" tvg-name="Monumental Sports Network HD" group-title="United States",Monumental Sports Network HD
+https://tvpass.org/live/monumental-sports-network/hd
+
+#EXTINF:-1 tvg-id="monumental-sports-network" tvg-name="Monumental Sports Network SD" group-title="United States",Monumental Sports Network SD
+https://tvpass.org/live/monumental-sports-network/sd
 
 #EXTINF:-1 tvg-id="MPTV.us" tvg-logo="https://i.imgur.com/OOQqMQz.png" group-title="United States",Moorpark Government Channel (360p)
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/moorpark/G0086_003/playlist.m3u8
@@ -5166,8 +5772,20 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-id="MoreTVSitcoms.us" tvg-logo="https://i.imgur.com/4mbhOEo.png" group-title="United States",More TV Sitcoms
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6132619f9ddaa50007e7dd86/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=62d7dbcd-04ab-4ca8-ae91-0bf98c68d0d2
 
+#EXTINF:-1 tvg-id="moremax-eastern" tvg-name="MoreMax Eastern HD" group-title="United States",MoreMax Eastern HD
+https://tvpass.org/live/MoreMaxEast/hd
+
+#EXTINF:-1 tvg-id="moremax-eastern" tvg-name="MoreMax Eastern SD" group-title="United States",MoreMax Eastern SD
+https://tvpass.org/live/MoreMaxEast/sd
+
 #EXTINF:-1 tvg-id="MorroBayChannel20.us" tvg-logo="https://i.imgur.com/UZeC6xH.png" group-title="United States",Morro Bay Channel 20 (480p)
 https://agp-nimble.streamguys1.com/MBCh20/MBCh20/playlist.m3u8
+
+#EXTINF:-1 tvg-id="motor-trend-hd" tvg-name="Motor Trend HD HD" group-title="United States",Motor Trend HD HD
+https://tvpass.org/live/Motortrend/hd
+
+#EXTINF:-1 tvg-id="motor-trend-hd" tvg-name="Motor Trend HD SD" group-title="United States",Motor Trend HD SD
+https://tvpass.org/live/Motortrend/sd
 
 #EXTINF:-1 tvg-id="6400f731d200410008f9b339" tvg-logo="https://images.pluto.tv/channels/6400f731d200410008f9b339/thumbnail.jpg" group-title="United States",MotorTrend FAST TV
 #EXTVLCOPT:http-referrer=https://pluto.tv/
@@ -5178,6 +5796,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335b193583440007c859fb/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=dfb86599-1547-11f0-bd03-46001866c42d&sid=dfb86599-1547-11f0-bd03-46001866c42d
+
+#EXTINF:-1 tvg-id="moviemax-max-6-east" tvg-name="MovieMax (Max 6) East HD" group-title="United States",MovieMax (Max 6) East HD
+https://tvpass.org/live/MovieMaxEast/hd
+
+#EXTINF:-1 tvg-id="moviemax-max-6-east" tvg-name="MovieMax (Max 6) East SD" group-title="United States",MovieMax (Max 6) East SD
+https://tvpass.org/live/MovieMaxEast/sd
 
 #EXTINF:-1 tvg-id="MoviesforGamers.us" tvg-logo="https://i.imgur.com/aqjzEkb.png" group-title="United States",Movies for Gamers
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6008ddf24ef92b00079d61cf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2f37e9d8-bdac-4d46-949d-ccfbf76dd6e0
@@ -5193,13 +5817,31 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-id="MSG.us" tvg-logo="https://i.imgur.com/SEQFh0P.png" group-title="United States",MSG
 http://fl3.moveonjoy.com/MSG/index.m3u8
 
+#EXTINF:-1 tvg-id="msg-madison-square-gardens" tvg-name="MSG Madison Square Gardens HD" group-title="United States",MSG Madison Square Gardens HD
+https://tvpass.org/live/msg-madison-square-gardens/hd
+
+#EXTINF:-1 tvg-id="msg-madison-square-gardens" tvg-name="MSG Madison Square Gardens SD" group-title="United States",MSG Madison Square Gardens SD
+https://tvpass.org/live/msg-madison-square-gardens/sd
+
 #EXTINF:-1 tvg-id="MSGPlus.us" tvg-logo="https://i.imgur.com/7suDpSK.png" group-title="United States",MSG Plus (720p)
 https://tvpass.org/live/msg-plus/hd
+
+#EXTINF:-1 tvg-id="msg-plus" tvg-name="MSG Plus HD" group-title="United States",MSG Plus HD
+https://tvpass.org/live/msg-plus/hd
+
+#EXTINF:-1 tvg-id="msg-plus" tvg-name="MSG Plus SD" group-title="United States",MSG Plus SD
+https://tvpass.org/live/msg-plus/sd
 
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="United States" http-referrer="https://webxzplay.cfd/" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",MSNBC (1080p)
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium327/mono.m3u8
+
+#EXTINF:-1 tvg-id="msnbc-usa" tvg-name="MSNBC USA HD" group-title="United States",MSNBC USA HD
+https://tvpass.org/live/MSNBC/hd
+
+#EXTINF:-1 tvg-id="msnbc-usa" tvg-name="MSNBC USA SD" group-title="United States",MSNBC USA SD
+https://tvpass.org/live/MSNBC/sd
 
 #EXTINF:-1 tvg-id="545943f1c9f133a519bbac92" tvg-logo="https://images.pluto.tv/channels/545943f1c9f133a519bbac92/thumbnail.jpg" group-title="United States",MST3K
 #EXTVLCOPT:http-referrer=https://pluto.tv/
@@ -5208,6 +5850,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 
 #EXTINF:-1 tvg-id="MTC.us" tvg-logo="https://i.imgur.com/JxoAR4j.png" group-title="United States",MTC (720p)
 https://mtchls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="mtv-2-east" tvg-name="MTV 2 East HD" group-title="United States",MTV 2 East HD
+https://tvpass.org/live/mtv-2-east/hd
+
+#EXTINF:-1 tvg-id="mtv-2-east" tvg-name="MTV 2 East SD" group-title="United States",MTV 2 East SD
+https://tvpass.org/live/mtv-2-east/sd
 
 #EXTINF:-1 tvg-id="5d14fd1a252d35decbc4080c" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/thumbnail.jpg" group-title="United States",MTV Biggest Pop
 #EXTVLCOPT:http-referrer=https://pluto.tv/
@@ -5236,6 +5884,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=90bf70ab-1547-11f0-91e7-f6e3f9332acd&sid=90bf70ab-1547-11f0-91e7-f6e3f9332acd
+
+#EXTINF:-1 tvg-id="mtv-usa-eastern-feed" tvg-name="MTV USA Eastern Feed HD" group-title="United States",MTV USA Eastern Feed HD
+https://tvpass.org/live/MTVEast/hd
+
+#EXTINF:-1 tvg-id="mtv-usa-eastern-feed" tvg-name="MTV USA Eastern Feed SD" group-title="United States",MTV USA Eastern Feed SD
+https://tvpass.org/live/MTVEast/sd
 
 #EXTINF:-1 tvg-id="MTVU.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/512px-MTVU_Logo_%282016%E2%80%93present%29.svg.png" group-title="United States",MTVU
 http://fl2.moveonjoy.com/MTV_U/index.m3u8
@@ -5296,14 +5950,26 @@ https://tvpass.org/live/NationalGeographicEast/hd
 #EXTINF:-1 tvg-id="NationalGeographicindex.m3u8East.us" tvg-logo="" group-title="United States",National Geographic index.m3u8 East
 https://v1.thetvapp.to/hls/NationalGeographicEast/index.m3u8
 
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern HD" group-title="United States",National Geographic US Eastern HD
+https://tvpass.org/live/NationalGeographicEast/hd
+
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern SD" group-title="United States",National Geographic US Eastern SD
+https://tvpass.org/live/NationalGeographicEast/sd
+
 #EXTINF:-1 tvg-id="NationalGeographicWildEast.us" tvg-logo="" group-title="United States",National Geographic Wild East
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild HD" group-title="United States",National Geographic Wild HD
+https://tvpass.org/live/NationalGeographicWildEast/hd
 
 #EXTINF:-1 tvg-id="NationalGeographicWildHDEast.us" tvg-logo="" group-title="United States",National Geographic Wild HD East (720p)
 https://tvpass.org/live/NationalGeographicWildEast/hd
 
 #EXTINF:-1 tvg-id="NationalGeographicWildindex.m3u8East.us" tvg-logo="" group-title="United States",National Geographic Wild index.m3u8 East
 https://v1.thetvapp.to/hls/NationalGeographicWildEast/index.m3u8
+
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild SD" group-title="United States",National Geographic Wild SD
+https://tvpass.org/live/NationalGeographicWildEast/sd
 
 #EXTINF:-1 tvg-id="5812bd9f249444e05d09cc4e" tvg-logo="https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/thumbnail.jpg" group-title="United States",Naturescape
 #EXTVLCOPT:http-referrer=https://pluto.tv/
@@ -5314,6 +5980,18 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6792c30abc03978b9b8bb832/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=d8099400-1547-11f0-808f-ba73b27e7cb4&sid=d8099400-1547-11f0-808f-ba73b27e7cb4
+
+#EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA HD" group-title="United States",NBA TV USA HD
+https://tvpass.org/live/NBATV/hd
+
+#EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA SD" group-title="United States",NBA TV USA SD
+https://tvpass.org/live/NBATV/sd
+
+#EXTINF:-1 tvg-id="nbc-knbc-los-angeles-ca" tvg-name="NBC (KNBC) Los Angeles HD" group-title="United States",NBC (KNBC) Los Angeles HD
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
+
+#EXTINF:-1 tvg-id="nbc-knbc-los-angeles-ca" tvg-name="NBC (KNBC) Los Angeles SD" group-title="United States",NBC (KNBC) Los Angeles SD
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
 
 #EXTINF:-1 tvg-id="WGBADT1.us" tvg-logo="https://i.imgur.com/bzgfmRL.png" group-title="United States",NBC 26 Green Bay WI (WGBA-DT1) (720p)
 https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
@@ -5335,8 +6013,26 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-logo="https://i.imgur.com/MTgUVKx.png" group-title="United States",NBC Sports Bay Area
 https://v1.thetvapp.to/hls/nbc-sports-bay-area/index.m3u8
 
+#EXTINF:-1 tvg-id="nbc-sports-bay-area" tvg-name="NBC Sports Bay Area HD" group-title="United States",NBC Sports Bay Area HD
+https://tvpass.org/live/nbc-sports-bay-area/hd
+
+#EXTINF:-1 tvg-id="nbc-sports-bay-area" tvg-name="NBC Sports Bay Area SD" group-title="United States",NBC Sports Bay Area SD
+https://tvpass.org/live/nbc-sports-bay-area/sd
+
 #EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NBC_Sports_Boston.png/512px-NBC_Sports_Boston.png" group-title="United States",NBC Sports Boston
 https://v1.thetvapp.to/hls/nbc-sports-boston/index.m3u8
+
+#EXTINF:-1 tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston HD" group-title="United States",NBC Sports Boston HD
+https://tvpass.org/live/nbc-sports-boston/hd
+
+#EXTINF:-1 tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston SD" group-title="United States",NBC Sports Boston SD
+https://tvpass.org/live/nbc-sports-boston/sd
+
+#EXTINF:-1 tvg-id="nbc-sports-california" tvg-name="NBC Sports California HD" group-title="United States",NBC Sports California HD
+https://tvpass.org/live/nbc-sports-california/hd
+
+#EXTINF:-1 tvg-id="nbc-sports-california" tvg-name="NBC Sports California SD" group-title="United States",NBC Sports California SD
+https://tvpass.org/live/nbc-sports-california/sd
 
 #EXTINF:-1 tvg-id="6549306c83595c000815a696" tvg-logo="https://images.pluto.tv/channels/6549306c83595c000815a696/thumbnail.jpg" group-title="United States",NBC Sports NOW
 #EXTVLCOPT:http-referrer=https://pluto.tv/
@@ -5345,6 +6041,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 
 #EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/512px-NBC_Sports_Philadelphia.png" group-title="United States",NBC Sports Philadelphia
 https://v1.thetvapp.to/hls/nbc-sports-philadelphia/index.m3u8
+
+#EXTINF:-1 tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia HD" group-title="United States",NBC Sports Philadelphia HD
+https://tvpass.org/live/nbc-sports-philadelphia/hd
+
+#EXTINF:-1 tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia SD" group-title="United States",NBC Sports Philadelphia SD
+https://tvpass.org/live/nbc-sports-philadelphia/sd
 
 #EXTINF:-1 tvg-id="KNSDDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="United States",NBC West (San Diego) (1080p) [Not 24/7]
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
@@ -5359,6 +6061,12 @@ https://content.uplynk.com/channel/b468fd41b60840579668c42c096a4103.m3u8
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5aea40b35126c2157123aa64/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=57af94a0-1549-11f0-bbad-2ab7bb3725cd&sid=57af94a0-1549-11f0-bbad-2ab7bb3725cd
+
+#EXTINF:-1 tvg-id="new-england-sports-network" tvg-name="New England Sports Network HD" group-title="United States",New England Sports Network HD
+https://tvpass.org/live/new-england-sports-network/hd
+
+#EXTINF:-1 tvg-id="new-england-sports-network" tvg-name="New England Sports Network SD" group-title="United States",New England Sports Network SD
+https://tvpass.org/live/new-england-sports-network/sd
 
 #EXTINF:-1 tvg-id="NEWKPOP.us" tvg-logo="https://i.imgur.com/B7ILXMc.png" group-title="United States",NEW K-POP (1080p)
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -5382,6 +6090,12 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png" group-title="United States",Newsmax TV (720p)
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-id="newsmax-tv" tvg-name="NewsMax TV HD" group-title="United States",NewsMax TV HD
+https://tvpass.org/live/NewsmaxTV/hd
+
+#EXTINF:-1 tvg-id="newsmax-tv" tvg-name="NewsMax TV SD" group-title="United States",NewsMax TV SD
+https://tvpass.org/live/NewsmaxTV/sd
 
 #EXTINF:-1 tvg-id="55b179af994403942f3061d6" tvg-logo="https://images.pluto.tv/channels/55b179af994403942f3061d6/thumbnail.jpg" group-title="United States",Newsmax2
 #EXTVLCOPT:http-referrer=https://pluto.tv/
@@ -5410,11 +6124,35 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png" group-title="United States",NFL Network
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network HD" group-title="United States",NFL Network HD
+https://tvpass.org/live/NFLNetwork/hd
+
+#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network SD" group-title="United States",NFL Network SD
+https://tvpass.org/live/NFLNetwork/sd
+
 #EXTINF:-1 tvg-id="NFLRedZone.us" tvg-logo="https://i.imgur.com/5lPqQj5.png" group-title="United States",NFL RedZone
 http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 
+#EXTINF:-1 tvg-id="nfl-redzone" tvg-name="NFL RedZone HD" group-title="United States",NFL RedZone HD
+https://tvpass.org/live/NFLRedZone/hd
+
+#EXTINF:-1 tvg-id="nfl-redzone" tvg-name="NFL RedZone SD" group-title="United States",NFL RedZone SD
+https://tvpass.org/live/NFLRedZone/sd
+
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="United States",NHL
 https://nhl-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nhl-network-usa" tvg-name="NHL Network USA HD" group-title="United States",NHL Network USA HD
+https://tvpass.org/live/NHLNetwork/hd
+
+#EXTINF:-1 tvg-id="nhl-network-usa" tvg-name="NHL Network USA SD" group-title="United States",NHL Network USA SD
+https://tvpass.org/live/NHLNetwork/sd
+
+#EXTINF:-1 tvg-id="nick-jr-east" tvg-name="Nick Jr. East HD" group-title="United States",Nick Jr. East HD
+https://tvpass.org/live/NickJrEast/hd
+
+#EXTINF:-1 tvg-id="nick-jr-east" tvg-name="Nick Jr. East SD" group-title="United States",Nick Jr. East SD
+https://tvpass.org/live/NickJrEast/sd
 
 #EXTINF:-1 tvg-id="5ca6748a37b88b269472dad9" tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/thumbnail.jpg" group-title="United States",Nick Jr. Pluto TV
 #EXTVLCOPT:http-referrer=https://pluto.tv/
@@ -5440,8 +6178,20 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=9b96603b-1547-11f0-9bdb-8e669ec06024&sid=9b96603b-1547-11f0-9bdb-8e669ec06024
 
+#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="Nickelodeon USA East Feed HD" group-title="United States",Nickelodeon USA East Feed HD
+https://tvpass.org/live/NickelodeonEast/hd
+
+#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="Nickelodeon USA East Feed SD" group-title="United States",Nickelodeon USA East Feed SD
+https://tvpass.org/live/NickelodeonEast/sd
+
 #EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-logo="" group-title="United States",NickToons (720p)
 http://143.244.60.30/NICKTOONS/index.m3u8
+
+#EXTINF:-1 tvg-id="nicktoons-east" tvg-name="Nicktoons East HD" group-title="United States",Nicktoons East HD
+https://tvpass.org/live/NicktoonsEast/hd
+
+#EXTINF:-1 tvg-id="nicktoons-east" tvg-name="Nicktoons East SD" group-title="United States",Nicktoons East SD
+https://tvpass.org/live/NicktoonsEast/sd
 
 #EXTINF:-1 tvg-id="NinjaKidzTV.us" tvg-logo="https://i.imgur.com/7EngqUi.png" group-title="United States",Ninja Kidz TV
 https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
@@ -5485,6 +6235,39 @@ https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NTDTVEast.us" tvg-logo="" group-title="United States",NTD TV (New Tang Dynasty Television)
 http://cnhls.ntdtv.com/cn/live400/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KBPXLD3.us" tvg-logo="https://i.imgur.com/wsFie0M.png" group-title="United States",Nudu
+https://d1p0bzoad08w6e.cloudfront.net/encode/nudu.m3u8
+
+#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC (WABC) New York, NY HD" group-title="United States",ABC (WABC) New York, NY HD
+https://tvpass.org/live/WABCDT1/hd
+
+#EXTINF:-1 tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS (WCBS) New York, NY HD" group-title="United States",CBS (WCBS) New York, NY HD
+https://tvpass.org/live/WCBSDT1/hd
+
+#EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX (WNYW) New York, NY HD" group-title="United States",FOX (WNYW) New York, NY HD
+https://tvpass.org/live/WNYWDT1/hd
+
+#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC (WNBC) New York, NY HD" group-title="United States",NBC (WNBC) New York, NY HD
+https://tvpass.org/live/WNBCDT1/hd
+
+#EXTINF:-1 tvg-id="pbs-wnet-new-york-ny" tvg-name="PBS (WNET) New York, NY HD" group-title="United States",PBS (WNET) New York, NY HD
+https://tvpass.org/live/WNET/hd
+
+#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC (WABC) New York, NY SD" group-title="United States",ABC (WABC) New York, NY SD
+https://tvpass.org/live/WABCDT1/sd
+
+#EXTINF:-1 tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS (WCBS) New York, NY SD" group-title="United States",CBS (WCBS) New York, NY SD
+https://tvpass.org/live/WCBSDT1/sd
+
+#EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX (WNYW) New York, NY SD" group-title="United States",FOX (WNYW) New York, NY SD
+https://tvpass.org/live/WNYWDT1/sd
+
+#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC (WNBC) New York, NY SD" group-title="United States",NBC (WNBC) New York, NY SD
+https://tvpass.org/live/WNBCDT1/sd
+
+#EXTINF:-1 tvg-id="pbs-wnet-new-york-ny" tvg-name="PBS (WNET) New York, NY SD" group-title="United States",PBS (WNET) New York, NY SD
+https://tvpass.org/live/WNET/sd
 
 #EXTINF:-1 tvg-id="NYXT.us" tvg-logo="https://i.imgur.com/KiIzWmO.jpg" group-title="United States",NYXT (1080p)
 https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8
@@ -5534,6 +6317,12 @@ https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/ontarioca/G2446_002/playlist.m3u8
 #EXTINF:-1 tvg-id="OpcionTV.us" tvg-logo="https://i.imgur.com/ojTinM2.png" group-title="United States",Opción TV (540p)
 https://5790d294af2dc.streamlock.net/8066/8066/playlist.m3u8
 
+#EXTINF:-1 tvg-id="oprah-winfrey-network-usa-eastern" tvg-name="Oprah Winfrey Network USA Eastern HD" group-title="United States",Oprah Winfrey Network USA Eastern HD
+https://tvpass.org/live/OWNEast/hd
+
+#EXTINF:-1 tvg-id="oprah-winfrey-network-usa-eastern" tvg-name="Oprah Winfrey Network USA Eastern SD" group-title="United States",Oprah Winfrey Network USA Eastern SD
+https://tvpass.org/live/OWNEast/sd
+
 #EXTINF:-1 tvg-id="OrangeTV.us" tvg-logo="https://i.imgur.com/ANfTXIe.png" group-title="United States",Orange County Orange TV (Orange County FL) (720p)
 https://otv3.ocfl.net/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
 
@@ -5552,6 +6341,12 @@ https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="United States",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
+#EXTINF:-1 tvg-id="outdoor-channel-us" tvg-name="Outdoor Channel US HD" group-title="United States",Outdoor Channel US HD
+https://tvpass.org/live/OutdoorChannel/hd
+
+#EXTINF:-1 tvg-id="outdoor-channel-us" tvg-name="Outdoor Channel US SD" group-title="United States",Outdoor Channel US SD
+https://tvpass.org/live/OutdoorChannel/sd
+
 #EXTINF:-1 tvg-id="OuterMaxEast.us" tvg-logo="" group-title="United States",OuterMax East (720p)
 http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
 
@@ -5565,6 +6360,12 @@ http://fl3.moveonjoy.com/Ovation/index.m3u8
 
 #EXTINF:-1 tvg-id="OxygenEast.us" tvg-logo="" group-title="United States",Oxygen East
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+
+#EXTINF:-1 tvg-id="oxygen-eastern-feed" tvg-name="Oxygen Eastern Feed HD" group-title="United States",Oxygen Eastern Feed HD
+https://tvpass.org/live/OxygenEast/hd
+
+#EXTINF:-1 tvg-id="oxygen-eastern-feed" tvg-name="Oxygen Eastern Feed SD" group-title="United States",Oxygen Eastern Feed SD
+https://tvpass.org/live/OxygenEast/sd
 
 #EXTINF:-1 tvg-id="654930a8346f420008d3b0b8" tvg-logo="https://images.pluto.tv/channels/654930a8346f420008d3b0b8/thumbnail.jpg" group-title="United States",Oxygen True Crime Archives
 #EXTVLCOPT:http-referrer=https://pluto.tv/
@@ -5966,6 +6767,12 @@ https://a-cdn.klowdtv.com/live2/thefirst_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Reelz.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png" group-title="United States",Reelz
 https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
 
+#EXTINF:-1 tvg-id="reelzchannel" tvg-name="ReelzChannel HD" group-title="United States",ReelzChannel HD
+https://tvpass.org/live/Reelz/hd
+
+#EXTINF:-1 tvg-id="reelzchannel" tvg-name="ReelzChannel SD" group-title="United States",ReelzChannel SD
+https://tvpass.org/live/Reelz/sd
+
 #EXTINF:-1 tvg-id="RetroCrush.us" tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="United States",Retro Crush
 https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/playlist.m3u8
 
@@ -6077,6 +6884,12 @@ https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8
 #EXTINF:-1 tvg-id="SCCurrents.us" tvg-logo="https://i.imgur.com/8FZsNyK.png" group-title="United States",SC Currents
 https://reflect-communitytv.cablecast.tv/live-5/live/live.m3u8
 
+#EXTINF:-1 tvg-id="science" tvg-name="Science HD" group-title="United States",Science HD
+https://tvpass.org/live/Science/hd
+
+#EXTINF:-1 tvg-id="science" tvg-name="Science SD" group-title="United States",Science SD
+https://tvpass.org/live/Science/sd
+
 #EXTINF:-1 tvg-id="5459795fc9f133a519bc0bef" tvg-logo="https://images.pluto.tv/channels/5459795fc9f133a519bc0bef/thumbnail.jpg" group-title="United States",Scripps News
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
@@ -6084,6 +6897,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 
 #EXTINF:-1 tvg-id="SCVTV.us" tvg-logo="https://i.imgur.com/qEsZbZz.png" group-title="United States",SCVTV (Santa Clarita CA) (1080p)
 https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8
+
+#EXTINF:-1 tvg-id="sec-network" tvg-name="SEC Network HD" group-title="United States",SEC Network HD
+https://tvpass.org/live/SECN/hd
+
+#EXTINF:-1 tvg-id="sec-network" tvg-name="SEC Network SD" group-title="United States",SEC Network SD
+https://tvpass.org/live/SECN/sd
 
 #EXTINF:-1 tvg-id="60fb3087fbbc120007fc46be" tvg-logo="https://images.pluto.tv/channels/60fb3087fbbc120007fc46be/thumbnail.jpg" group-title="United States",Series con Ñ
 #EXTVLCOPT:http-referrer=https://pluto.tv/
@@ -6116,8 +6935,20 @@ https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.
 #EXTINF:-1 tvg-id="KCKSLD10.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Logo_of_Liquidation_Channel.svg/512px-Logo_of_Liquidation_Channel.svg.png" group-title="United States",Shop LC (KCKS-LD10) (480p) [Not 24/7]
 https://cdn.igocast.com/channel10_hls/channel10_master.m3u8
 
+#EXTINF:-1 tvg-id="showtime-2-eastern" tvg-name="Showtime 2 Eastern HD" group-title="United States",Showtime 2 Eastern HD
+https://tvpass.org/live/Showtime2East/hd
+
+#EXTINF:-1 tvg-id="showtime-2-eastern" tvg-name="Showtime 2 Eastern SD" group-title="United States",Showtime 2 Eastern SD
+https://tvpass.org/live/Showtime2East/sd
+
 #EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-logo="" group-title="United States",Showtime East
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" tvg-name="Showtime Eastern Feed HD" group-title="United States",Showtime Eastern Feed HD
+https://tvpass.org/live/ShowtimeEast/hd
+
+#EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" tvg-name="Showtime Eastern Feed SD" group-title="United States",Showtime Eastern Feed SD
+https://tvpass.org/live/ShowtimeEast/sd
 
 #EXTINF:-1 tvg-id="ShowtimeNextEast.us" tvg-logo="" group-title="United States",Showtime Next East
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
@@ -6160,6 +6991,12 @@ http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21ea08007a49000762d349/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=129ed753-1548-11f0-a41d-e2d0e4b8fc4a&sid=129ed753-1548-11f0-a41d-e2d0e4b8fc4a
 
+#EXTINF:-1 tvg-id="sny-sportsnet-new-york-comcast" tvg-name="SNY Sportsnet New York Comcast HD" group-title="United States",SNY Sportsnet New York Comcast HD
+https://tvpass.org/live/sny-sportsnet-new-york-comcast/hd
+
+#EXTINF:-1 tvg-id="sny-sportsnet-new-york-comcast" tvg-name="SNY Sportsnet New York Comcast SD" group-title="United States",SNY Sportsnet New York Comcast SD
+https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
+
 #EXTINF:-1 tvg-id="SoReal.us" tvg-logo="https://i.imgur.com/wZ2uj9d.png" group-title="United States",So...Real
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8
 
@@ -6176,6 +7013,24 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SoundViewCommunityMedia.us" tvg-logo="https://i.imgur.com/3gASzGc.png" group-title="United States",Sound View Community Media Education (480p)
 https://livestream.telvue.com/soundviewcmt2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="space-city-home-network" tvg-name="Space City Home Network HD" group-title="United States",Space City Home Network HD
+https://tvpass.org/live/space-city-home-network/hd
+
+#EXTINF:-1 tvg-id="space-city-home-network" tvg-name="Space City Home Network SD" group-title="United States",Space City Home Network SD
+https://tvpass.org/live/space-city-home-network/sd
+
+#EXTINF:-1 tvg-id="spectrum-sportsnet-la" tvg-name="Spectrum SportsNet LA HD" group-title="United States",Spectrum SportsNet LA HD
+https://tvpass.org/live/spectrum-sportsnet-la/hd
+
+#EXTINF:-1 tvg-id="spectrum-sportsnet-la" tvg-name="Spectrum SportsNet LA SD" group-title="United States",Spectrum SportsNet LA SD
+https://tvpass.org/live/spectrum-sportsnet-la/sd
+
+#EXTINF:-1 tvg-id="spectrum-sportsnet" tvg-name="Spectrum Sportsnet Lakers HD" group-title="United States",Spectrum Sportsnet Lakers HD
+https://tvpass.org/live/spectrum-sportsnet/hd
+
+#EXTINF:-1 tvg-id="spectrum-sportsnet" tvg-name="Spectrum Sportsnet Lakers SD" group-title="United States",Spectrum Sportsnet Lakers SD
+https://tvpass.org/live/spectrum-sportsnet/sd
 
 #EXTINF:-1 tvg-id="6675b8ccca74680008563c24" tvg-logo="https://images.pluto.tv/channels/6675b8ccca74680008563c24/thumbnail.jpg" group-title="United States",Speed Sport 1
 #EXTVLCOPT:http-referrer=https://pluto.tv/
@@ -6204,8 +7059,50 @@ https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SportsmanChannel.us" tvg-logo="https://i.imgur.com/CXauv8M.png" group-title="United States",Sportsman Channel
 http://fl2.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 
+#EXTINF:-1 tvg-id="sportsnet-east" tvg-name="Sportsnet (East) HD" group-title="United States",Sportsnet (East) HD
+https://tvpass.org/live/sportsnet-east/hd
+
+#EXTINF:-1 tvg-id="sportsnet-east" tvg-name="Sportsnet (East) SD" group-title="United States",Sportsnet (East) SD
+https://tvpass.org/live/sportsnet-east/sd
+
+#EXTINF:-1 tvg-id="sportsnet-360" tvg-name="Sportsnet 360 HD" group-title="United States",Sportsnet 360 HD
+https://tvpass.org/live/sportsnet-360/hd
+
+#EXTINF:-1 tvg-id="sportsnet-360" tvg-name="Sportsnet 360 SD" group-title="United States",Sportsnet 360 SD
+https://tvpass.org/live/sportsnet-360/sd
+
 #EXTINF:-1 tvg-id="SportsNetNewYork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/512px-SNY_logo.svg.png" group-title="United States",SportsNet New York (540p)
 http://fl2.moveonjoy.com/SNY/index.m3u8
+
+#EXTINF:-1 tvg-id="sportsnet-one" tvg-name="Sportsnet One HD" group-title="United States",Sportsnet One HD
+https://tvpass.org/live/sportsnet-one/hd
+
+#EXTINF:-1 tvg-id="sportsnet-one" tvg-name="Sportsnet One SD" group-title="United States",Sportsnet One SD
+https://tvpass.org/live/sportsnet-one/sd
+
+#EXTINF:-1 tvg-id="sportsnet-ontario" tvg-name="Sportsnet Ontario HD" group-title="United States",Sportsnet Ontario HD
+https://tvpass.org/live/sportsnet-ontario/hd
+
+#EXTINF:-1 tvg-id="sportsnet-ontario" tvg-name="Sportsnet Ontario SD" group-title="United States",Sportsnet Ontario SD
+https://tvpass.org/live/sportsnet-ontario/sd
+
+#EXTINF:-1 tvg-id="sportsnet-pacific" tvg-name="Sportsnet Pacific HD" group-title="United States",Sportsnet Pacific HD
+https://tvpass.org/live/sportsnet-pacific/hd
+
+#EXTINF:-1 tvg-id="sportsnet-pacific" tvg-name="Sportsnet Pacific SD" group-title="United States",Sportsnet Pacific SD
+https://tvpass.org/live/sportsnet-pacific/sd
+
+#EXTINF:-1 tvg-id="sportsnet-pittsburgh" tvg-name="Sportsnet Pittsburgh HD" group-title="United States",Sportsnet Pittsburgh HD
+https://tvpass.org/live/sportsnet-pittsburgh/hd
+
+#EXTINF:-1 tvg-id="sportsnet-pittsburgh" tvg-name="Sportsnet Pittsburgh SD" group-title="United States",Sportsnet Pittsburgh SD
+https://tvpass.org/live/sportsnet-pittsburgh/sd
+
+#EXTINF:-1 tvg-id="sportsnet-west" tvg-name="Sportsnet West HD" group-title="United States",Sportsnet West HD
+https://tvpass.org/live/sportsnet-west/hd
+
+#EXTINF:-1 tvg-id="sportsnet-west" tvg-name="Sportsnet West SD" group-title="United States",Sportsnet West SD
+https://tvpass.org/live/sportsnet-west/sd
 
 #EXTINF:-1 tvg-id="SPTV.us" tvg-logo="https://i.imgur.com/fl8I3cg.png" group-title="United States",St. Pete TV (SPTV) (St Petersburg FL) (360p)
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8
@@ -6243,6 +7140,12 @@ http://fl3.moveonjoy.com/Start_Tv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65775a88b3801200084a39ed/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=8f2c7ec2-1547-11f0-af76-825a9183ab09&sid=8f2c7ec2-1547-11f0-af76-825a9183ab09
 
+#EXTINF:-1 tvg-id="starz-eastern" tvg-name="Starz Eastern HD" group-title="United States",Starz Eastern HD
+https://tvpass.org/live/StarzEast/hd
+
+#EXTINF:-1 tvg-id="starz-eastern" tvg-name="Starz Eastern SD" group-title="United States",Starz Eastern SD
+https://tvpass.org/live/StarzEast/sd
+
 #EXTINF:-1 tvg-id="StarzEncoreClassicEast.us" tvg-logo="" group-title="United States",Starz Encore Classic East
 http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 
@@ -6269,6 +7172,12 @@ https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SundanceTVEast.us" tvg-logo="" group-title="United States",Sundance TV East
 http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
 
+#EXTINF:-1 tvg-id="sundancetv-usa-east" tvg-name="SundanceTV USA East HD" group-title="United States",SundanceTV USA East HD
+https://tvpass.org/live/SundanceTVEast/hd
+
+#EXTINF:-1 tvg-id="sundancetv-usa-east" tvg-name="SundanceTV USA East SD" group-title="United States",SundanceTV USA East SD
+https://tvpass.org/live/SundanceTVEast/sd
+
 #EXTINF:-1 tvg-id="SuperSimpleSongs.us" tvg-logo="https://i.imgur.com/3k4F7O9.png" group-title="United States",Super Simple Songs (1080p)
 https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
 
@@ -6293,6 +7202,12 @@ https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="SyfyEast.us" tvg-logo="" group-title="United States",Syfy East
 http://fl2.moveonjoy.com/SYFY/index.m3u8
 
+#EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="Syfy Eastern Feed HD" group-title="United States",Syfy Eastern Feed HD
+https://tvpass.org/live/SyfyEast/hd
+
+#EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="Syfy Eastern Feed SD" group-title="United States",Syfy Eastern Feed SD
+https://tvpass.org/live/SyfyEast/sd
+
 #EXTINF:-1 tvg-id="TennisChannelPlus2.us" tvg-logo="" group-title="United States",T2 Tennis Channel (1080p)
 https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
 
@@ -6316,6 +7231,12 @@ https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8
 #EXTINF:-1 tvg-id="TBNUkraine.us" tvg-logo="https://i.imgur.com/PhbrGyM.png" group-title="United States",TBN Україна (720p)
 https://5d23269b3ec0c.streamlock.net/WEB_Ukraine24/ngrp:Ukraine24.stream-adaptive/playlist.m3u8
 
+#EXTINF:-1 tvg-id="tbs-east" tvg-name="TBS East HD" group-title="United States",TBS East HD
+https://tvpass.org/live/TBSEast/hd
+
+#EXTINF:-1 tvg-id="tbs-east" tvg-name="TBS East SD" group-title="United States",TBS East SD
+https://tvpass.org/live/TBSEast/sd
+
 #EXTINF:-1 tvg-id="TDAmeritradeNetwork.us" tvg-logo="https://i.imgur.com/RbVdkJ5.png" group-title="United States",TD Ameritrade Network (1080p)
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
 
@@ -6329,6 +7250,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6127e12ed140e900077e7b6f/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=cb92b5a6-1549-11f0-96eb-82ed18b82910&sid=cb92b5a6-1549-11f0-96eb-82ed18b82910
 
+#EXTINF:-1 tvg-id="teennick-eastern" tvg-name="TeenNick Eastern HD" group-title="United States",TeenNick Eastern HD
+https://tvpass.org/live/TeenNickEast/hd
+
+#EXTINF:-1 tvg-id="teennick-eastern" tvg-name="TeenNick Eastern SD" group-title="United States",TeenNick Eastern SD
+https://tvpass.org/live/TeenNickEast/sd
+
 #EXTINF:-1 tvg-id="TeleBoston.us" tvg-logo="https://i.imgur.com/xeTtup8.png" group-title="United States",Tele Boston (480p)
 https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
 
@@ -6340,6 +7267,12 @@ https://haititivi.com/haiti/telemix1/index.m3u8
 
 #EXTINF:-1 tvg-id="TelemundoCorpusChristi.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Telemundo_Corpus_Christi_logo.png" group-title="United States",Telemundo Corpus Christi
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+
+#EXTINF:-1 tvg-id="telemundo-eastern-feed" tvg-name="Telemundo Eastern Feed HD" group-title="United States",Telemundo Eastern Feed HD
+https://tvpass.org/live/TelemundoEast/hd
+
+#EXTINF:-1 tvg-id="telemundo-eastern-feed" tvg-name="Telemundo Eastern Feed SD" group-title="United States",Telemundo Eastern Feed SD
+https://tvpass.org/live/TelemundoEast/sd
 
 #EXTINF:-1 tvg-id="5cf96cc422df39f1a338d165" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/thumbnail.jpg" group-title="United States",Telemundo telenovelas clásicas
 #EXTVLCOPT:http-referrer=https://pluto.tv/
@@ -6354,6 +7287,15 @@ https://reflect-temecula.cablecast.tv/live-2/live/live.m3u8
 
 #EXTINF:-1 tvg-id="Tempe11.us" tvg-logo="https://i.imgur.com/KMeHRV3.png" group-title="United States",Tempe Channel 11
 https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/tempe/G0355_003/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TempoAfricTV.us" tvg-logo="https://i.imgur.com/mggN4mS.jpg" group-title="United States",Tempo Afric TV (720p)
+https://streamspace.live/hls/tempoafrictv/livestream.m3u8
+
+#EXTINF:-1 tvg-id="the-tennis-channel" tvg-name="The Tennis Channel HD" group-title="United States",The Tennis Channel HD
+https://tvpass.org/live/TennisChannel/hd
+
+#EXTINF:-1 tvg-id="the-tennis-channel" tvg-name="The Tennis Channel SD" group-title="United States",The Tennis Channel SD
+https://tvpass.org/live/TennisChannel/sd
 
 #EXTINF:-1 tvg-id="TeveVidaNetwork.us" tvg-logo="https://i.imgur.com/lCpf5P1.png" group-title="United States",Teve Vida Network (480p) [Not 24/7]
 https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8
@@ -6387,13 +7329,31 @@ https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/601a0342dcf4370007566891/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=c51325e8-1549-11f0-acf4-468ec283b490&sid=c51325e8-1549-11f0-acf4-468ec283b490
 
+#EXTINF:-1 tvg-id="tlc-usa-eastern" tvg-name="TLC USA Eastern HD" group-title="United States",TLC USA Eastern HD
+https://tvpass.org/live/TLCEast/hd
+
+#EXTINF:-1 tvg-id="tlc-usa-eastern" tvg-name="TLC USA Eastern SD" group-title="United States",TLC USA Eastern SD
+https://tvpass.org/live/TLCEast/sd
+
 #EXTINF:-1 tvg-id="TMTV.us" tvg-logo="https://tmlive.tv/wp-content/uploads/2018/07/immigration-consultants-network-en-.png" group-title="United States",TM TV (720p)
 https://hls.tmtv.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="tmc-us-eastern-feed" tvg-name="TMC (US) Eastern Feed HD" group-title="United States",TMC (US) Eastern Feed HD
+https://tvpass.org/live/TheMovieChannelEast/hd
+
+#EXTINF:-1 tvg-id="tmc-us-eastern-feed" tvg-name="TMC (US) Eastern Feed SD" group-title="United States",TMC (US) Eastern Feed SD
+https://tvpass.org/live/TheMovieChannelEast/sd
 
 #EXTINF:-1 tvg-id="59b722526996084038c01e1b" tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/thumbnail.jpg" group-title="United States",TNA Wrestling
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=725b73e9-1547-11f0-88aa-42fafe1721e3&sid=725b73e9-1547-11f0-88aa-42fafe1721e3
+
+#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed HD" group-title="United States",TNT Eastern Feed HD
+https://tvpass.org/live/TNTEast/hd
+
+#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed SD" group-title="United States",TNT Eastern Feed SD
+https://tvpass.org/live/TNTEast/sd
 
 #EXTINF:-1 tvg-id="5d695f7db53adf96b78e7ce3" tvg-logo="https://images.pluto.tv/channels/5d695f7db53adf96b78e7ce3/thumbnail.jpg" group-title="United States",TODAY All Day
 #EXTVLCOPT:http-referrer=https://pluto.tv/
@@ -6453,6 +7413,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-id="TravelAdventuresWithJeffSwan.us" tvg-logo="https://qph.cf2.quoracdn.net/main-thumb-36342885-100-vylrialbmjewkchxyegknvslsfhrzust.jpeg" group-title="United States",Travel Adventures with Jeff Swan (1080p)
 https://app.viloud.tv/hls/channel/0d984388834adac967a4ec4e69bc8271.m3u8
 
+#EXTINF:-1 tvg-id="travel-us-east" tvg-name="Travel US East HD" group-title="United States",Travel US East HD
+https://tvpass.org/live/TravelChannelEast/hd
+
+#EXTINF:-1 tvg-id="travel-us-east" tvg-name="Travel US East SD" group-title="United States",Travel US East SD
+https://tvpass.org/live/TravelChannelEast/sd
+
 #EXTINF:-1 tvg-id="CommunityTVChannel189.us" tvg-logo="https://i.imgur.com/jmkLR6L.png" group-title="United States",Traverse Area Community Media CommunityTV Channel 189 (Traverse City MI) (1080p) [Geo-blocked]
 https://reflect-tacm.cablecast.tv/live-3/live/live.m3u8
 
@@ -6467,10 +7433,52 @@ https://server80.servistreaming.com:3074/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="TrueHistory.us" tvg-logo="https://i.imgur.com/1BHDGXx.png" group-title="United States",True History (720p)
 https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="trutv-usa-eastern" tvg-name="truTV USA Eastern HD" group-title="United States",truTV USA Eastern HD
+https://tvpass.org/live/truTVEast/hd
+
+#EXTINF:-1 tvg-id="trutv-usa-eastern" tvg-name="truTV USA Eastern SD" group-title="United States",truTV USA Eastern SD
+https://tvpass.org/live/truTVEast/sd
+
+#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1 HD" group-title="United States",TSN1 HD
+https://tvpass.org/live/tsn1/hd
+
+#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1 SD" group-title="United States",TSN1 SD
+https://tvpass.org/live/tsn1/sd
+
+#EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2 HD" group-title="United States",TSN2 HD
+https://tvpass.org/live/tsn2/hd
+
+#EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2 SD" group-title="United States",TSN2 SD
+https://tvpass.org/live/tsn2/sd
+
+#EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3 HD" group-title="United States",TSN3 HD
+https://tvpass.org/live/tsn3/hd
+
+#EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3 SD" group-title="United States",TSN3 SD
+https://tvpass.org/live/tsn3/sd
+
+#EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4 HD" group-title="United States",TSN4 HD
+https://tvpass.org/live/tsn4/hd
+
+#EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4 SD" group-title="United States",TSN4 SD
+https://tvpass.org/live/tsn4/sd
+
+#EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5 HD" group-title="United States",TSN5 HD
+https://tvpass.org/live/tsn5/hd
+
+#EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5 SD" group-title="United States",TSN5 SD
+https://tvpass.org/live/tsn5/sd
+
 #EXTINF:-1 tvg-id="673249ccc7626f0008c72076" tvg-logo="https://images.pluto.tv/channels/673249ccc7626f0008c72076/thumbnail.jpg" group-title="United States",TuDiscovery
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/673249ccc7626f0008c72076/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=b1f6039f-1548-11f0-9c2e-723fb3e1a883&sid=b1f6039f-1548-11f0-9c2e-723fb3e1a883
+
+#EXTINF:-1 tvg-id="turner-classic-movies-usa" tvg-name="Turner Classic Movies USA HD" group-title="United States",Turner Classic Movies USA HD
+https://tvpass.org/live/TCMEast/hd
+
+#EXTINF:-1 tvg-id="turner-classic-movies-usa" tvg-name="Turner Classic Movies USA SD" group-title="United States",Turner Classic Movies USA SD
+https://tvpass.org/live/TCMEast/sd
 
 #EXTINF:-1 tvg-id="TUTV.us" tvg-logo="https://i.imgur.com/At0BPeA.png" group-title="United States",TUTV
 https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
@@ -6483,11 +7491,23 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-id="TVLandDrama.us" tvg-logo="https://i.imgur.com/y1rXIAS.png" group-title="United States",TV Land Drama
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5e762bb7-572b-4470-87fd-b3b4bb48462e
 
+#EXTINF:-1 tvg-id="tv-land-eastern" tvg-name="TV Land Eastern HD" group-title="United States",TV Land Eastern HD
+https://tvpass.org/live/tv-land-eastern/hd
+
+#EXTINF:-1 tvg-id="tv-land-eastern" tvg-name="TV Land Eastern SD" group-title="United States",TV Land Eastern SD
+https://tvpass.org/live/tv-land-eastern/sd
+
 #EXTINF:-1 tvg-id="TVLandSitcoms.us" tvg-logo="https://i.imgur.com/phHHs7l.png" group-title="United States",TV Land Sitcoms
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b42011ce-d42f-4692-bb1d-2fe02741437a
 
 #EXTINF:-1 tvg-id="TVOne.us" tvg-logo="https://i.imgur.com/tthm8Q5.png" group-title="United States",TV One
 http://fl2.moveonjoy.com/TV_ONE/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-one" tvg-name="TV One HD" group-title="United States",TV One HD
+https://tvpass.org/live/TVOne/hd
+
+#EXTINF:-1 tvg-id="tv-one" tvg-name="TV One SD" group-title="United States",TV One SD
+https://tvpass.org/live/TVOne/sd
 
 #EXTINF:-1 tvg-id="TV4.us" tvg-logo="https://i.imgur.com/CRvQ6sF.png" group-title="United States",TV4 (360p)
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/bullheadcity/G0860_002/playlist.m3u8
@@ -6552,9 +7572,6 @@ https://bozztv.com/gusa/gusa-tvsgameshow/index.m3u8
 #EXTINF:-1 tvg-id="TVSSelectNetwork.us" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="United States",TVS Select Network (720p)
 https://bozztv.com/gusa/gusa-tvsselect/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSSports.us" tvg-logo="https://i.imgur.com/Lwwq62E.png" group-title="United States",TVS Sports (720p) [Not 24/7]
-https://bozztv.com/gusa/gusa-tvssports/index.m3u8
-
 #EXTINF:-1 tvg-id="TVSSportsBureau.us" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="United States",TVS Sports Bureau (720p)
 https://bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
 
@@ -6581,6 +7598,9 @@ https://bozztv.com/gusa/gusa-tvsvintage/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSWesternMovie.us" tvg-logo="https://i.imgur.com/dwr98qb.png" group-title="United States",TVS Western Movie (270p)
 https://bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSWomenSports.us" tvg-logo="https://i.imgur.com/8hC4PfF.png" group-title="United States",TVS Women Sports (720p)
+https://bozztv.com/gusa/gusa-tvswsn/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSConsumerDirect.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-consumer-direct.jpg" group-title="United States",TVSConsumerDirect
 https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
@@ -6630,10 +7650,22 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549341853fc9700083901ac/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=58ed48da-1548-11f0-a25f-327300662534&sid=58ed48da-1548-11f0-a25f-327300662534
 
+#EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids HD" group-title="United States",Universal Kids HD
+https://tvpass.org/live/UniversalKidsEast/hd
+
+#EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids SD" group-title="United States",Universal Kids SD
+https://tvpass.org/live/UniversalKidsEast/sd
+
 #EXTINF:-1 tvg-id="65a9b20f0c7ff50008d3a3b6" tvg-logo="https://images.pluto.tv/channels/65a9b20f0c7ff50008d3a3b6/thumbnail.jpg" group-title="United States",Universal Monsters
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a9b20f0c7ff50008d3a3b6/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=655e844e-1547-11f0-b179-1e4201608b35&sid=655e844e-1547-11f0-b179-1e4201608b35
+
+#EXTINF:-1 tvg-id="univision-eastern-feed" tvg-name="Univision Eastern Feed HD" group-title="United States",Univision Eastern Feed HD
+https://tvpass.org/live/UnivisionEast/hd
+
+#EXTINF:-1 tvg-id="univision-eastern-feed" tvg-name="Univision Eastern Feed SD" group-title="United States",Univision Eastern Feed SD
+https://tvpass.org/live/UnivisionEast/sd
 
 #EXTINF:-1 tvg-id="5b4e96a0423e067bd6df6901" tvg-logo="https://images.pluto.tv/channels/5b4e96a0423e067bd6df6901/thumbnail.jpg" group-title="United States",Unsolved Mysteries
 #EXTVLCOPT:http-referrer=https://pluto.tv/
@@ -6647,6 +7679,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 
 #EXTINF:-1 tvg-id="UpTV.us" tvg-logo="https://i.imgur.com/AvR9LSn.png" group-title="United States",Up TV (1080p)
 http://fl3.moveonjoy.com/Up_Tv/index.m3u8
+
+#EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA Network East Feed HD" group-title="United States",USA Network East Feed HD
+https://tvpass.org/live/USANetworkEast/hd
+
+#EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA Network East Feed SD" group-title="United States",USA Network East Feed SD
+https://tvpass.org/live/USANetworkEast/sd
 
 #EXTINF:-1 tvg-id="CityofVacavilleChannel26.us" tvg-logo="https://i.imgur.com/dvuGdxg.png" group-title="United States",Vacaville Channel 26 (Vacaville CA) (720p)
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/vacaville/G0228_002/playlist.m3u8
@@ -6713,6 +7751,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d161c93c785e0008df575e/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=e7baf653-1548-11f0-a5a5-864276444844&sid=e7baf653-1548-11f0-a5a5-864276444844
 
+#EXTINF:-1 tvg-id="vh1-eastern-feed" tvg-name="VH1 Eastern Feed HD" group-title="United States",VH1 Eastern Feed HD
+https://tvpass.org/live/VH1East/hd
+
+#EXTINF:-1 tvg-id="vh1-eastern-feed" tvg-name="VH1 Eastern Feed SD" group-title="United States",VH1 Eastern Feed SD
+https://tvpass.org/live/VH1East/sd
+
 #EXTINF:-1 tvg-id="5d7154fa8326b6ce4ec31f2e" tvg-logo="https://images.pluto.tv/channels/5d7154fa8326b6ce4ec31f2e/thumbnail.jpg" group-title="United States",VH1 I Love Reality
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
@@ -6726,8 +7770,14 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-id="VICETV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png" group-title="United States",Vice East
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 
+#EXTINF:-1 tvg-id="vice" tvg-name="VICE HD" group-title="United States",VICE HD
+https://tvpass.org/live/VICETV/hd
+
 #EXTINF:-1 tvg-id="ViceNews.us" tvg-logo="https://i.imgur.com/QWPJQnr.png" group-title="United States",Vice News (1080p)
 https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vice" tvg-name="VICE SD" group-title="United States",VICE SD
+https://tvpass.org/live/VICETV/sd
 
 #EXTINF:-1 tvg-id="VictorValleyTV.us" tvg-logo="https://i.imgur.com/zgiuNNj.png" group-title="United States",Victor Valley Movies (1080p) [Not 24/7]
 https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8
@@ -6828,11 +7878,23 @@ https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
 #EXTINF:-1 tvg-id="WDAFDT2.us" tvg-logo="https://i.imgur.com/ocs2DeU.png" group-title="United States",WDAF-DT2 (720p)
 https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
 
+#EXTINF:-1 tvg-id="we-womens-entertainment-eastern" tvg-name="WE (Women's Entertainment) Eastern HD" group-title="United States",WE (Women's Entertainment) Eastern HD
+https://tvpass.org/live/WeTVEast/hd
+
+#EXTINF:-1 tvg-id="we-womens-entertainment-eastern" tvg-name="WE (Women's Entertainment) Eastern SD" group-title="United States",WE (Women's Entertainment) Eastern SD
+https://tvpass.org/live/WeTVEast/sd
+
 #EXTINF:-1 tvg-id="WeTVEast.us" tvg-logo="" group-title="United States",We TV East
 http://fl1.moveonjoy.com/WE_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="TheWeatherChannelenEspanol.us" tvg-logo="https://i.imgur.com/afs44R2.png" group-title="United States",The Weather Channel en Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/627ae4fcf001df00074d6e5b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df13c2c6-8880-4f3d-b7b6-a18acfcb3069
+
+#EXTINF:-1 tvg-id="the-weather-channel" tvg-name="The Weather Channel HD" group-title="United States",The Weather Channel HD
+https://tvpass.org/live/TheWeatherChannel/hd
+
+#EXTINF:-1 tvg-id="the-weather-channel" tvg-name="The Weather Channel SD" group-title="United States",The Weather Channel SD
+https://tvpass.org/live/TheWeatherChannel/sd
 
 #EXTINF:-1 tvg-id="WeatherNation.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/512px-WeatherNation_Logo.svg.png" group-title="United States",WeatherNation
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d2cb7ac552e3773bc48982e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1028-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcca8395-396e-4be0-9049-564f29c5ac9b
@@ -6955,6 +8017,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66b66b9e14a2bb000872f606/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=5b8f9029-6079-41b1-9c57-1eae6d6b74b0&deviceLat=40.8500&deviceLon=-73.9400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=136.0.0&marketingRegion=US&serverSideAds=false&sessionID=a55d0f1f-1548-11f0-b4ab-da5b4f9531bd&sid=a55d0f1f-1548-11f0-b4ab-da5b4f9531bd
 
+#EXTINF:-1 tvg-id="wpix-new-york-superstation" tvg-name="WPIX New York (SUPERSTATION) HD" group-title="United States",WPIX New York (SUPERSTATION) HD
+https://tvpass.org/live/WPIX/hd
+
+#EXTINF:-1 tvg-id="wpix-new-york-superstation" tvg-name="WPIX New York (SUPERSTATION) SD" group-title="United States",WPIX New York (SUPERSTATION) SD
+https://tvpass.org/live/WPIX/sd
+
 #EXTINF:-1 tvg-id="WPSTV.us" tvg-logo="https://i.imgur.com/zwzmwse.jpg" group-title="United States",WPS TV (360p)
 https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
 
@@ -7025,6 +8093,12 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="YesNetwork.us" tvg-logo="https://i.imgur.com/wMQEeCF.png" group-title="United States",Yes Network
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network HD" group-title="United States",Yes Network HD
+https://tvpass.org/live/yes-network/hd
+
+#EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network SD" group-title="United States",Yes Network SD
+https://tvpass.org/live/yes-network/sd
 
 #EXTINF:-1 tvg-id="5d14fc31252d35decbc4080b" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/thumbnail.jpg" group-title="United States",Yo! MTV
 #EXTVLCOPT:http-referrer=https://pluto.tv/
@@ -7170,9 +8244,6 @@ https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
 #EXTINF:-1 tvg-id="HLAWDTV.kr" tvg-logo="https://i.imgur.com/vYXAkgy.png" group-title="South Korea",MBC Andong (안동 MBC) (360p) [Not 24/7]
 http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HLKUDTV.kr" tvg-logo="https://i.imgur.com/jiFOYi5.png" group-title="South Korea",MBC Busan (부산MBC) (360p) [Not 24/7]
-https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="HLANDTV.kr" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="South Korea",MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 
@@ -7184,6 +8255,9 @@ https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HLCQDTV.kr" tvg-logo="https://i.imgur.com/HCbvAiM.png" group-title="South Korea",MBC Daejeon (대전 MBC) (720p) [Not 24/7]
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HLAJDTV.kr" tvg-logo="https://i.imgur.com/JM4rxGU.png" group-title="South Korea",MBC Jeju (제주 MBC) (352p) [Not 24/7]
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HLAMDTV.kr" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="South Korea",MBC Mokpo (목포 MBC) (720p) [Not 24/7]
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
@@ -8954,6 +10028,9 @@ https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af78
 #EXTINF:-1 tvg-id="2GB.au" tvg-logo="https://i.ibb.co/jwM8DFG/2GB-1.png" group-title="Australia",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 
+#EXTINF:-1 tvg-id="3AW.au" tvg-logo="https://i.imgur.com/Z4MdB0S.png" group-title="Australia",3AW Melbourne (1080p)
+https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
+
 #EXTINF:-1 tvg-id="6PR.au" tvg-logo="https://i.imgur.com/Q9iCxg1.png" group-title="Australia",6PR Perth (1080p)
 https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
 
@@ -9860,9 +10937,6 @@ https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PieraTV.es" tvg-logo="https://i.imgur.com/R4BzwqR.png" group-title="Spain",Piera TV (720p) [Not 24/7]
 http://51.254.47.72:1935/piera/smil:piera.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Spain",Platzi TV (1080p)
-https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-
 #EXTINF:-1 tvg-id="600ae6a78d801e0007117d21" tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/thumbnail.jpg" group-title="Spain",Pluto TV Animales
 #EXTVLCOPT:http-referrer=https://pluto.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
@@ -10438,6 +11512,9 @@ https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal10Durango.mx" tvg-logo="https://i.imgur.com/H34quHQ.png" group-title="Mexico",Canal 10 Durango
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx" tvg-logo="https://i.imgur.com/r7czgOc.png" group-title="Mexico",Canal 15 ILCE Summa Sabres (720p)
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.mx" tvg-logo="https://i.imgur.com/PAvnVN9.png" group-title="Mexico",Canal 26 Aguascalientes (1080p)
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
@@ -12511,9 +13588,6 @@ https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-logo="https://i.imgur.com/xwfxS9N.png" group-title="Brazil",TV Galega Blumenau (720p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVGrandeNatal.br" tvg-logo="https://i.imgur.com/MTuErdw.png" group-title="Brazil",TV Grande Natal (1080p)
-http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
-
 #EXTINF:-1 tvg-id="TVGraoPara.br" tvg-logo="https://i.imgur.com/1drg0E9.png" group-title="Brazil",TV Grao Pará (720p)
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 
@@ -12570,6 +13644,9 @@ https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVSeries.br" tvg-logo="https://i.imgur.com/Ff5mj0o.png" group-title="Brazil",TV Series 1 As Panteras (480p)
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSimCachoeiro.br" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="Brazil",TV Sim Cachoeiro (720p)
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVSimColatina.br" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="Brazil",TV Sim Colatina (720p)
 https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
@@ -13006,6 +14083,9 @@ https://mediacp.us:8081/jbntv/index.m3u8
 
 #EXTINF:-1 tvg-id="JehovaTV.hn" tvg-logo="https://i.imgur.com/ylZKG57.png" group-title="Honduras",Jehová TV (720p)
 https://video.misistemareseller.com/jehovatelevision/jehovatelevision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KerussoTV.hn" tvg-logo="https://i.imgur.com/S79uof0.png" group-title="Honduras",Kerusso TV (720p)
+https://s.emisoras.tv:8081/kerussotv/index.m3u8
 
 #EXTINF:-1 tvg-id="LaTop1029.hn" tvg-logo="https://i.imgur.com/ZqwLPag.jpg" group-title="Honduras",La Top 102.9 (720p)
 https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
@@ -13482,6 +14562,9 @@ https://cnn.essastream.com:3091/live/hmtvlive.m3u8
 #EXTINF:-1 tvg-id="HilandoFinoTV.do" tvg-logo="https://i.imgur.com/E7ta6g8.png" group-title="Dominican Republic",Hilando Fino TV (1080p)
 https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8
 
+#EXTINF:-1 tvg-id="HTVLive.do" tvg-logo="https://i.imgur.com/0WBsAin.png" group-title="Dominican Republic",HTV Live (1080p)
+https://vdo1.streamgato.us:3833/live/canalhtvlivelive.m3u8
+
 #EXTINF:-1 tvg-id="ImagenUniversalTV.do" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="Dominican Republic",Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
@@ -13539,6 +14622,9 @@ https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
 #EXTINF:-1 tvg-id="PuntaCanaTV.do" tvg-logo="https://i.imgur.com/KF7fLTx.png" group-title="Dominican Republic",Punta Cana TV (720p) [Not 24/7]
 https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
 
+#EXTINF:-1 tvg-id="RDN.do" tvg-logo="https://i.imgur.com/x02CGSW.png" group-title="Dominican Republic",RDN (720p)
+https://vdo2.streamgato.us:3278/live/rdntvlive.m3u8
+
 #EXTINF:-1 tvg-id="ReadyTVCanal6.do" tvg-logo="https://i.imgur.com/ZONPQhR.png" group-title="Dominican Republic",Ready TV Canal 6 (720p) [Not 24/7]
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 
@@ -13577,6 +14663,9 @@ https://ss5.domint.net:3180/tbt_str/telebendicion/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telecanal12.do" tvg-logo="https://i.imgur.com/90cTK8S.png" group-title="Dominican Republic",Telecanal 12 (720p) [Not 24/7]
 https://rdn.essastream.com:3258/live/telecanal12live.m3u8
+
+#EXTINF:-1 tvg-id="Telecanal28.do" tvg-logo="https://i.imgur.com/hEJ6lZ9.png" group-title="Dominican Republic",Telecanal 28 (360p) [Not 24/7]
+https://vdo2.streamgato.us:3841/live/telecanal28tvlive.m3u8
 
 #EXTINF:-1 tvg-id="TeleCibaoHD.do" tvg-logo="https://i.imgur.com/IpInp05.png" group-title="Dominican Republic",TeleCibao (720p) [Not 24/7]
 https://vdo2.streamgato.us:3713/live/telecibaotvlive.m3u8
@@ -13619,6 +14708,9 @@ https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 
 #EXTINF:-1 tvg-id="Telever.do" tvg-logo="https://telever.com.do/wp-content/uploads/2021/04/cropped-logotelever.png" group-title="Dominican Republic",Telever (1080p) [Not 24/7]
 https://vdo1.streamgato.us:3342/live/televercanal12live.m3u8
+
+#EXTINF:-1 tvg-id="TelevisiondelEste.do" tvg-logo="https://i.imgur.com/mmjbcGr.png" group-title="Dominican Republic",Televisión del Este (720p)
+https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8
 
 #EXTINF:-1 tvg-id="TenarensesTV.do" tvg-logo="https://i.imgur.com/cPIgs0v.png" group-title="Dominican Republic",Tenarenses TV (720p) [Not 24/7]
 https://vdo2.streamgato.us:3305/live/tenarensestvrdlive.m3u8
@@ -13689,6 +14781,9 @@ https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
 #EXTINF:-1 tvg-id="Zol106.do" tvg-logo="https://i.imgur.com/xz4LQoD.png" group-title="Dominican Republic",Zol106 (720p) [Not 24/7]
 https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ZTV.do" tvg-logo="https://i.imgur.com/7F4jQ13.png" group-title="Dominican Republic",ZTV (720p) [Not 24/7]
+https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
+
 #EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="Puerto Rico",América TeVé (1080p)
 https://live.gideo.video/americateve2/master.m3u8
 
@@ -13730,9 +14825,6 @@ https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
 
 #EXTINF:-1 tvg-id="ParaisoTV.pr" tvg-logo="https://i.imgur.com/wE31GIP.jpg" group-title="Puerto Rico",Paraíso TV (720p)
 https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PuraPalabra.pr" tvg-logo="https://i.imgur.com/nl5vyIw.png" group-title="Puerto Rico",Pura Palabra (718p) [Not 24/7]
-https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioIslaTV.pr" tvg-logo="https://i.ibb.co/PDThYr5/Logo-Radio-Isla.png" group-title="Puerto Rico",Radio Isla TV (720p)
 https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
@@ -13787,6 +14879,9 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 
 #EXTINF:-1 tvg-id="CableSurTV.co" tvg-logo="https://i.imgur.com/Rvuyu7R.jpg" group-title="Colombia",Cable Sur TV (720p)
 https://tvlatina.live:1936/8012/8012/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://i.imgur.com/2312Luq.png" group-title="Colombia",Cali TV (540p) [Not 24/7]
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal10SOLTV.co" tvg-logo="https://i.imgur.com/kAbrHqt.jpeg" group-title="Colombia",Canal 10 SOL TV (1080p)
 http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
@@ -13932,9 +15027,6 @@ https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
 
 #EXTINF:-1 tvg-id="AmericaEstereoGuayaquil.ec" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="Ecuador",América Estéreo Guayaquil (360p)
 https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AmericaEstereoIbarra.ec" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="Ecuador",América Estéreo Ibarra (720p)
-https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AmericaEstereoQuito.ec" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="Ecuador",América Estéreo Quito (1080p)
 https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
@@ -14132,9 +15224,6 @@ https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 #EXTINF:-1 tvg-id="NorSelvaRTV.pe" tvg-logo="https://i.imgur.com/87ObrJO.png" group-title="Peru",NorSelva RTV (720p) [Not 24/7]
 https://live.obslivestream.com/norselvatv/index.m3u8
 
-#EXTINF:-1 tvg-id="NovaTVStar.pe" tvg-logo="https://i.imgur.com/CN2j8S3.png" group-title="Peru",Nova TV Star (360p) [Not 24/7]
-https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
-
 #EXTINF:-1 tvg-id="OasisRTV.pe" tvg-logo="https://i.imgur.com/48L65SG.png" group-title="Peru",Oasis RTV (720p) [Not 24/7]
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 
@@ -14276,8 +15365,14 @@ https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Trece.py" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/512px-Logotrececanal.png" group-title="Paraguay",Trece Paraguay (1080p) [Not 24/7]
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Unicanal.py" tvg-logo="https://i.imgur.com/cgTD2TW.png" group-title="Paraguay",Unicanal (1080p) [Not 24/7]
+https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
+
 #EXTINF:-1 tvg-id="UnionTV.py" tvg-logo="https://i.imgur.com/No9YzNC.png" group-title="Paraguay",UnionTV
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VenusMedia.py" tvg-logo="https://i.imgur.com/XwmUbfp.png" group-title="Paraguay",Venus Media (720p)
+https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
 
 #EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Argentina",13Max Televisión (1080p)
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
@@ -14687,6 +15782,9 @@ https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
 #EXTINF:-1 tvg-id="ZjarrTV.al" tvg-logo="https://i.imgur.com/hNuWZWe.png" group-title="Albania",Zjarr TV (720p) [Not 24/7]
 https://cdn.jwplayer.com/live/events/r2qgHu7W.m3u8
 
+#EXTINF:-1 tvg-id="AL24News.dz" tvg-logo="https://i.imgur.com/vyVEXYL.png" group-title="Algeria",AL24 News (1080p)
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AmouYazidTV.dz" tvg-logo="https://i.imgur.com/L8UPGPC.png" group-title="Algeria",Amou Yazid TV (576p)
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
 
@@ -14871,9 +15969,6 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 #EXTINF:-1 tvg-id="CBCTV8.bb" tvg-logo="https://i.imgur.com/WsD83lq.png" group-title="Barbados",CBC TV8 (1080p) [Not 24/7]
 https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
 
-#EXTINF:-1 tvg-id="Channel8Belarus.by" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/8channeltv.png" group-title="Belarus",8 канал (Витебск) (576p) [Not 24/7]
-http://95.46.208.8:24433/art
-
 #EXTINF:-1 tvg-id="Belarus24.by" tvg-logo="https://i.imgur.com/BP7tY6F.png" group-title="Belarus",Беларусь 24 (1080p)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 
@@ -15025,6 +16120,9 @@ https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CTN.kh" tvg-logo="https://i.imgur.com/r523kOq.png" group-title="Cambodia",CTN (480p)
 http://43.252.18.195:5080/live/streams/ctntv.m3u8
 
+#EXTINF:-1 tvg-id="CTV9.kh" tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="Cambodia",CTV 9
+https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8
+
 #EXTINF:-1 tvg-id="HangMeasHDTV.kh" tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="Cambodia",Hang Meas HDTV (1080p)
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 
@@ -15142,12 +16240,6 @@ https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 #EXTINF:-1 tvg-id="WeihaiComprehensiveNewsChannel.cn" tvg-logo="https://www.tvchinese.net/uploads/tv/weihaitv1.jpg" group-title="China",Weihai Comprehensive News Channel
 http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
 
-#EXTINF:-1 tvg-id="WeihaiOceanChannel.cn" tvg-logo="https://www.tvchinese.net/uploads/tv/weihaihaiyang.jpg" group-title="China",Weihai Ocean Channel
-http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8
-
-#EXTINF:-1 tvg-id="WeihaiPublicChannel.cn" tvg-logo="https://www.tvchinese.net/uploads/tv/weihaitv2.jpg" group-title="China",Weihai Public Channel
-http://l2.weihai.tv:8081/hls/g16E3482eM.m3u8
-
 #EXTINF:-1 tvg-id="XizangTVChinese.cn" tvg-logo="https://i.imgur.com/V0v3ST5.png" group-title="China",Xizang TV Chinese
 http://php.jdshipin.com/xztv.php?id=ws
 
@@ -15240,6 +16332,9 @@ https://helga.iptv2022.com/sh/SYNTY_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="Tele50.cd" tvg-logo="https://i.imgur.com/JPNF6HE.jpeg" group-title="Congo",Télé 50 (576p)
 https://tnt-television.com/TELE50-TEST/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleCongo.cg" tvg-logo="https://i.imgur.com/r4B5zq4.png" group-title="Congo",Télé Congo (720p)
+http://51.254.199.122:8080/telecongo/index.m3u8
 
 #EXTINF:-1 tvg-id="BravoKidsTV.hr" tvg-logo="https://i.imgur.com/JcJ6fQ9.png" group-title="Croatia",Bravo! Kids TV (1080p)
 https://streaming.social3.hr/play/r3CK_tdsFIFL3bN7w4NW1plrwsCToUBsRFjhxM68sZY/m3u8
@@ -15453,6 +16548,9 @@ https://58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElRadio9090FM.eg" tvg-logo="https://www.9090.fm/images/logo.png" group-title="Egypt",El Radio 9090 FM (480p)
 https://9090video.mobtada.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="HBC.eg" tvg-logo="https://i.imgur.com/fPphLl1.png" group-title="Egypt",HBC
+https://ffs3.gulfsat.com/hbc/index.m3u8
 
 #EXTINF:-1 tvg-id="HudaTV.eg" tvg-logo="https://i.imgur.com/1UUjU26.png" group-title="Egypt",Huda TV (720p) [Not 24/7]
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
@@ -16503,6 +17601,9 @@ http://31.146.5.178:8087/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="AdinkraTV.gh" tvg-logo="https://i.imgur.com/uwuSXJ8.png" group-title="Ghana",Adinkra TV (1080p)
 https://59d39900ebfb8.streamlock.net/adinkratvny/adinkratvny/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CeeJayTV.gh" tvg-logo="https://i.imgur.com/YgLMMOr.png" group-title="Ghana",CeeJay TV (480p) [Not 24/7]
+https://asiakwa.com/ceejaytv/index.fmp4.m3u8
+
 #EXTINF:-1 tvg-id="FacultyTV.gh" tvg-logo="https://i.imgur.com/gAQVPTV.png" group-title="Ghana",Faculty TV (720p)
 https://stream-server9-jupiter.muxlive.com/hls/facultytv/index.m3u8
 
@@ -16890,6 +17991,9 @@ https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
 #EXTINF:-1 tvg-id="VTVFuzesabony.hu" tvg-logo="https://i.imgur.com/IoHyW7w.png" group-title="Hungary",VTV Füzesabony (720p)
 http://stream.nmih.hu:7960/live.m3u8
 
+#EXTINF:-1 tvg-id="VTVMor.hu" tvg-logo="https://i.imgur.com/x8jstsh.png" group-title="Hungary",VTV Mór (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/morvtv.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="VasarhelyiTelevizio.hu" tvg-logo="https://i.imgur.com/WOEqdmx.png" group-title="Hungary",Vásárhelyi Televízió (576p)
 https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8
 
@@ -16898,6 +18002,9 @@ https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZalaegerszegiTV.hu" tvg-logo="https://i.imgur.com/MLVPf0i.png" group-title="Hungary",Zalaegerszegi TV (360p)
 https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZugloTV.hu" tvg-logo="https://i.imgur.com/wPqCtwR.png" group-title="Hungary",Zuglo TV (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ObudaTV.hu" tvg-logo="https://i.ibb.co/42C026p/6172.png" group-title="Hungary",Óbuda TV (576p)
 https://stream.streaming4u.hu/ObudaTV/index.m3u8
@@ -17312,9 +18419,6 @@ https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="Indonesia",Rodja TV (720p)
 https://rodjatv.com/rodjatv/live.m3u8
 
-#EXTINF:-1 tvg-id="SaktiTV.id" tvg-logo="https://i.imgur.com/IDNjMfQ.png" group-title="Indonesia",Sakti TV (720p)
-https://saktitv.siar.us/saktitv/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TATV.id" tvg-logo="https://i.imgur.com/1f0EC7t.png" group-title="Indonesia",TATV (720p) [Not 24/7]
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 
@@ -17437,6 +18541,9 @@ http://63b03f7689049.streamlock.net:1935/live/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AfarinBaxcha.iq" tvg-logo="https://afarin.tv/images/baxcha.png" group-title="Iraq",Afarin Baxcha (1080p)
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AfarinTV.iq" tvg-logo="https://i.imgur.com/6MnXD7g.png" group-title="Iraq",Afarin TV (720p) [Not 24/7]
+https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlahadTV.iq" tvg-logo="https://i.imgur.com/uWibV0i.png" group-title="Iraq",Al Ahad TV
 http://63b03f7689049.streamlock.net:1935/live/7/playlist.m3u8
@@ -18881,9 +19988,6 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="CharityTV.lb" tvg-logo="https://i.imgur.com/U9z8WBY.png" group-title="Lebanon",CharityTV (1080p) [Not 24/7]
 http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
 
-#EXTINF:-1 tvg-id="FalestinonaChannel.lb" tvg-logo="https://i.imgur.com/Z3QeQHk.png" group-title="Lebanon",Falestinona Channel (576p)
-https://ffs3.gulfsat.com/Falestinona-TV/index.fmp4.m3u8
-
 #EXTINF:-1 tvg-id="FutureTV.lb" tvg-logo="https://i.imgur.com/OaqEpwe.png" group-title="Lebanon",Future TV (1080p)
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
 
@@ -19016,6 +20120,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 #EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://i.imgur.com/LGEdeyJ.png" group-title="Malaysia",TV2 [Geo-blocked]
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+#EXTINF:-1 tvg-id="TV3.my" tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="Malaysia",TV3
+https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
 #EXTINF:-1 tvg-id="TV6.my" tvg-logo="https://i.imgur.com/bK8UH9D.png" group-title="Malaysia" http-referrer="https://rtm-player.glueapi.io/",TV6 [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
@@ -21824,9 +22931,6 @@ https://hls.tv.3angels.ru/stream.m3u8
 #EXTINF:-1 tvg-id="TyumenskoeVremya.ru" tvg-logo="https://i.imgur.com/kgNEVIr.png" group-title="Russian Federation",Тюменское время
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HuzurTV.ru" tvg-logo="https://i.imgur.com/Abg1fct.png" group-title="Russian Federation",Хузур ТВ (1080p) [Not 24/7]
-https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="NTV.ru" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="Russian Federation" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Центральное телевидение (ЦТВ) (480p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s20/index.m3u8
@@ -22131,9 +23235,6 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9
 
 #EXTINF:-1 tvg-id="RadioLolaTV.rs" tvg-logo="https://i.imgur.com/41eE8fl.png" group-title="Serbia",Radio Lola (720p) [Not 24/7]
 https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
-
-#EXTINF:-1 tvg-id="RedTV.rs" tvg-logo="https://i.imgur.com/cpN7NrL.png" group-title="Serbia",Red TV (720p)
-https://live.rednet.rs/providus/redtv_multi.m3u8
 
 #EXTINF:-1 tvg-id="TVAS.rs" tvg-logo="https://i.imgur.com/LIUtEgD.png" group-title="Serbia",RTV AS (576p)
 https://srv1.adriatelekom.com/TVAS/index.m3u8
@@ -24125,6 +25226,9 @@ http://123.31.36.68/live.m3u8?c=vstv365&deviceId=&deviceType=&gcId=1532&location
 
 #EXTINF:-1 tvg-id="HaTinhTV.vn" tvg-logo="https://i.imgur.com/4yIgKKx.png" group-title="Viet Nam",Ha Tinh TV (720p)
 https://wse.hatinhtv.net/live/httv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HanoiTV1.vn" tvg-logo="https://i.imgur.com/Je3K25E.png" group-title="Viet Nam",HanoiTV1 (1080p)
+https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HauGiangTV.vn" tvg-logo="https://i.imgur.com/e0gc4CQ.png" group-title="Viet Nam",Hau Giang TV (720p)
 https://60acee235f4d5.streamlock.net/HGTV/d1/playlist.m3u8
